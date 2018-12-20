@@ -1,1 +1,0 @@
-/olight/wwwroot/ceikit.store.jp/app/code/Ebizmarts/MailChimp/view/frontend/web/js/campaigncatcher.js

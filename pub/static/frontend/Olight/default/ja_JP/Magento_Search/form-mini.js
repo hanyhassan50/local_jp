@@ -1,1 +1,0 @@
-/olight/wwwroot/ceikit.store.jp/vendor/magento/module-search/view/frontend/web/form-mini.js

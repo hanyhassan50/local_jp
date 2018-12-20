@@ -1,1 +1,0 @@
-/olight/wwwroot/ceikit.store.jp/lib/web/mage/ie-class-fixer.js

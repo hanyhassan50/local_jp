@@ -1,1 +1,0 @@
-/olight/wwwroot/ceikit.store.jp/app/design/frontend/Olight/default/Magento_Ui/web/js/lib/knockout/bindings/bootstrap.js

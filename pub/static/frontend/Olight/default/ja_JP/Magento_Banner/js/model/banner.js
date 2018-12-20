@@ -1,1 +1,0 @@
-/olight/wwwroot/ceikit.store.jp/vendor/magento/module-banner/view/frontend/web/js/model/banner.js

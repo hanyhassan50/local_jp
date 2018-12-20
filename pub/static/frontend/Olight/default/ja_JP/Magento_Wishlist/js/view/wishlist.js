@@ -1,1 +1,0 @@
-/olight/wwwroot/ceikit.store.jp/vendor/magento/module-wishlist/view/frontend/web/js/view/wishlist.js

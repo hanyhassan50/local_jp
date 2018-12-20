@@ -1,1 +1,0 @@
-/olight/wwwroot/ceikit.store.jp/vendor/magento/module-tax/view/frontend/web/js/view/checkout/minicart/subtotal/totals.js

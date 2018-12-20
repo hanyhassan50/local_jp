@@ -1,1 +1,0 @@
-/olight/wwwroot/ceikit.store.jp/app/design/frontend/Olight/default/Magento_Catalog/web/js/catalog-add-to-cart.js
