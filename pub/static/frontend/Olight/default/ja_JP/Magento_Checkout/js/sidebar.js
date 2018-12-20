@@ -1,0 +1,1 @@
+/olight/wwwroot/ceikit.store.jp/app/design/frontend/Olight/default/Magento_Checkout/web/js/sidebar.js

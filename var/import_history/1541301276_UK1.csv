@@ -1,0 +1,191 @@
+sku,store_view_code,attribute_set_code,product_type,categories,product_websites,name,description,short_description,weight,product_online,tax_class_name,visibility,price,special_price,special_price_from_date,special_price_to_date,url_key,meta_title,meta_keywords,meta_description,base_image,base_image_label,small_image,small_image_label,thumbnail_image,thumbnail_image_label,swatch_image,swatch_image_label,created_at,updated_at,new_from_date,new_to_date,display_product_options_in,map_price,msrp_price,map_enabled,gift_message_available,custom_design,custom_design_from,custom_design_to,custom_layout_update,page_layout,product_options_container,msrp_display_actual_price_type,country_of_manufacture,additional_attributes,qty,out_of_stock_qty,use_config_min_qty,is_qty_decimal,allow_backorders,use_config_backorders,min_cart_qty,use_config_min_sale_qty,max_cart_qty,use_config_max_sale_qty,is_in_stock,notify_on_stock_below,use_config_notify_stock_qty,manage_stock,use_config_manage_stock,use_config_qty_increments,qty_increments,use_config_enable_qty_inc,enable_qty_increments,is_decimal_divided,website_id,deferred_stock_update,use_config_deferred_stock_update,related_skus,related_position,crosssell_skus,crosssell_position,upsell_skus,upsell_position,additional_images,additional_image_labels,hide_from_product_page,custom_options,bundle_price_type,bundle_sku_type,bundle_price_view,bundle_weight_type,bundle_values,bundle_shipment_type,configurable_variations,configurable_variation_labels,associated_skus
+AM-OL-H16-CA-OS-UK,uk,Default,simple,"Canada Category/Best Seller/Headlamps,Canada Category/Headlamps,Canada Category/All Products,Canada Category/Best Sellers",base,Olight H16 Wave Rechargeable LED Headlamp Max. 500 Lumens Hand Wave Motion Activation Flashlight with Built-in Battery,"<div class=""description-content"">
+<div class=""h1"">
+<div class=""product-main-infor-box"">
+<h1>PRODUCT DETAIL</h1>
+</div>
+</div>
+<div class=""desc-box"">
+<div class=""product-main-infor-box"">
+<p>The H16 Wave is the completely redesigned motion activation headlamp featuring two parallel LEDs with one built for width and the other for distance providing maximum visibility.</p>
+<p>The best part about a headlamp is having full use of both hands while still lighting up what you are looking at. We extended that hands free usability by including a motion sensor in the front of the light allowing a simple hand wave gesture to turn the light on and off. This keeps the headlamp clean from anything the user is working on while also not impacting focus on the task at hand.</p>
+<p>The H16 features a maximum output of 500 lumens and a built-in micro-USB rechargeable LiPo battery pack that supports up to 25 hours of runtime.</p>
+<p>The battery pack is located on the back of the headband which balances the weight on the front and back for a comfortable feel during long periods of use.</p>
+<p>here is a four blue LED indicator on the battery pack to know when it needs to be charged as well as an audible beep at 10% battery.</p>
+<p>Using customers feedback, we have produced a headlamp including all of the necessary features that you need to get the job done.</p>
+<br />
+<p>✔ <strong> Hand wave operation</strong> - This motion sense setting saves users the trouble of reaching for the power switch in the dark, and keeps the headlamp clean from dirty hands.</p>
+<p>✔ <strong> Wide area illumination</strong> - Dual LED light head paired with a custom lens delivering great close-range illumination combining both a wide and focused beam.</p>
+<p>✔ <strong> Great runtimes</strong> - The H16 features a 2000mAh LiPo battery pack that supports a runtime up to 25 hours of continuous use.</p>
+<p>✔ <strong> Smart power level indication</strong> - Four-level blue LED battery indicator and low-power audible beep warning at 10% charge to keep you updated on your power status.</p>
+<p>✔ <strong> Beam angle adjustment</strong> - The light head has three adjustable levels from 0~45 degrees.</p>
+<p>✔ <strong> Reflective head strap</strong> - reflective stripes on both sides of the head strap to improve visibility and safety for the user.</p>
+</div>
+</div>
+<div class=""h1"">
+<div class=""product-main-infor-box"">
+<h1>PACKAGE CONTENTS</h1>
+</div>
+</div>
+<div class=""desc-box"">
+<div class=""product-main-infor-box""><img src=""{{media url='wysiwyg/H16-WAVE.jpg'}}"" alt="""" /></div>
+</div>
+<div class=""h1"">
+<div class=""product-main-infor-box"">
+<h1>OLIGHT PROMISE</h1>
+</div>
+</div>
+<div class=""desc-box"">
+<div class=""product-main-infor-box""><img src=""{{media url='wysiwyg/two.jpg'}}"" alt="""" /></div>
+</div>
+</div>",<p>The H16 Wave is the completely redesigned motion activation headlamp featuring two parallel LEDs with one built for width and the other for distance providing maximum visibility.</p>,4.06,2,Taxable Goods,"Catalog, Search",74.95,,,,olight-h16-wave,,,,/h/1/h16-1.jpg,,/h/1/h16-1.jpg,,/h/1/h16-1.jpg,,/h/1/h16-1.jpg,,"6/18/18, 11:30 PM","11/2/18, 6:15 AM",,,Block after Info Column,,,,No,,,,,,,Use config,,"charge_type=Micro-USB,compatible_batteries=Customised Li-Ion Battery,free_buy=No,gift_wrapping_available=No,is_best_seller=No,is_flash_sales=No,is_hot_search=No,is_limit_quantity=No,is_new_product=No,keywords=firefighter flashlights, industrial flashlight, 300 lumen flashlight, high lumens flashlight, high intensity flashlight, waterproof led flashlight,max_performance=500,technical_details=<div class=""product-main-infor-box"">
+<table class=""attributes"">
+<thead>
+<tr>
+<td colspan=""2"">GENERAL DATA</td>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td><b>Beam Distance (ft)</b></td>
+<td>328</td>
+</tr>
+<tr>
+<td><b>Beam Distance (m)</b></td>
+<td>100</td>
+</tr>
+<tr>
+<td><b>Max. Performance (lumens)</b></td>
+<td>500</td>
+</tr>
+<tr>
+<td><b>Charge type</b></td>
+<td>Micro-USB</td>
+</tr>
+<tr>
+<td><b>Compatible Batteries</b></td>
+<td>Customised Li-Ion Battery</td>
+</tr>
+<tr>
+<td><b>Light Intensity (candela)</b></td>
+<td>2500</td>
+</tr>
+<tr>
+<td><b>Light Form</b></td>
+<td>Far-range focused beam and close-range wide flood combined</td>
+</tr>
+<tr>
+<td><b>Lens / Reflector Type</b></td>
+<td>TIR bead lens (converged and wide beam)</td>
+</tr>
+<tr>
+<td><b>Mode Operation</b></td>
+<td>Switch on the bottom of the headlamp</td>
+</tr>
+<tr>
+<td><b>Form/Size Factor</b></td>
+<td>Small size (Car key / Zippo Lighter)</td>
+</tr>
+<tr>
+<td><b>Series</b></td>
+<td>Series H (Headlamps, Multitasking)</td>
+</tr>
+<tr>
+<td><b>Unique Characteristics</b></td>
+<td><strong>Hand wave operation</strong> - This motion sense setting saves users the trouble of reaching for the power switch in the dark, and keeps the headlamp clean from dirty hands. <strong>Wide area illumination</strong> - Dual LED light head paired with a custom lens delivering great close-range illumination combining both a wide and focused beam. <strong>Great runtimes</strong> - The H16 features a 2000mAh LiPo battery pack that supports a runtime up to 25 hours of continuous use. <strong>Smart power level indication</strong> - Four-level blue LED battery indicator and low-power audible beep warning at 10% charge to keep you updated on your power status. <strong>Beam angle adjustment</strong> - The light head has three adjustable levels from 0~45 degrees. <strong>Reflective head strap</strong> - reflective stripes on both sides of the head strap to improve visibility and safety for the user.</td>
+</tr>
+</tbody>
+<thead>
+<tr>
+<td colspan=""2""><span>LIGHTING LEVELS</span></td>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td><b>LEVEL 1 (lumens)</b></td>
+<td>500</td>
+</tr>
+<tr>
+<td><b>Run-time LEVEL 1</b></td>
+<td>500 lumens (~350lm)2h (5m).</td>
+</tr>
+<tr>
+<td><b>LEVEL 2 (lumens)</b></td>
+<td>100</td>
+</tr>
+<tr>
+<td><b>Run-time LEVEL 2</b></td>
+<td><b>9h30m.</b></td>
+</tr>
+<tr>
+<td><b>LEVEL 3 (lumens)</b></td>
+<td>5</td>
+</tr>
+<tr>
+<td><b>Run-time LEVEL 3</b></td>
+<td><b>160h.</b></td>
+</tr>
+<tr>
+<td><b>Strobe</b></td>
+<td>No</td>
+</tr>
+<tr>
+<td><b>SOS / BEACON</b></td>
+<td>No</td>
+</tr>
+</tbody>
+<thead>
+<tr>
+<td colspan=""2"">TECHNICAL CHARACTERISTICS</td>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td><b>Waterproof</b></td>
+<td>IPX4</td>
+</tr>
+<tr>
+<td><b>Weight (g / oz)</b></td>
+<td>115 / 4.06</td>
+</tr>
+<tr>
+<td><b>Length (mm / in)</b></td>
+<td>58 / 2.28</td>
+</tr>
+<tr>
+<td><b>Head Diameter (mm / in)</b></td>
+<td>24 / 0.94</td>
+</tr>
+<tr>
+<td><b>Body Diameter (mm / in)</b></td>
+<td>38 / 1.50</td>
+</tr>
+<tr>
+<td><b>Led</b></td>
+<td>2 x Cree XP-G3</td>
+</tr>
+<tr>
+<td><b>Packaging</b></td>
+<td>Carton Box</td>
+</tr>
+<tr>
+<td><b>Use</b></td>
+<td>fishing, climbing, cave exploration, outdoor activities, house activities</td>
+</tr>
+<tr>
+<td><b>Package Contents</b></td>
+<td>
+<ul>
+<li>Olight H16 flashlight x 1</li>
+<li>2000mAh 3.7V Lithium Polymer Battery(built-in) x 1</li>
+<li>USB-microUSB rechargeable cable x 1</li>
+<li>headband x 1</li>
+<li>Replacement Cable Clip x 2</li>
+<li>user manual x 1</li>
+<ul></ul>
+</ul>
+</td>
+</tr>
+</tbody>
+</table>
+</div>",10,0,1,0,0,1,1,1,10000,1,1,1,1,1,1,1,1,1,0,0,0,1,1,"AM-OL-HS2-CA-OS,AM-OL-H2R-CW-CA-OS,AM-OL-H2R-NW-CA-OS,AM-OL-H1R CW-CA-OS,AM-OL-H1R NW-CA-OS","1,2,3,4,5",,,,,"/h/1/h16-1.jpg,/h/1/h16-2.jpg,/h/1/h16-3.jpg,/h/1/h16-4.jpg,/h/1/h16-5.jpg,/h/1/h16-6.jpg,/h/1/h16-7.jpg",",,,,,,",,,,,,,,,,,

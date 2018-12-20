@@ -1,0 +1,14 @@
+8736,2130706433,0,admin_login,"2018-10-12 05:30:59",login,"{""general"":null}",success,ganfanghua,17,adminhtml_index_index,,127.0.0.1
+8737,2130706433,0,catalog_products,"2018-10-12 05:32:43",view,"{""general"":""1""}",success,ganfanghua,17,catalog_product_edit,,127.0.0.1
+8738,2130706433,0,catalog_products,"2018-10-12 05:32:57",save,"{""general"":""1, 2, 3""}",success,ganfanghua,17,catalog_product_save,,127.0.0.1
+8739,2130706433,0,customer,"2018-10-12 05:33:32",massDelete,"{""general"":""15120""}",success,ganfanghua,17,customer_index_massDelete,,127.0.0.1
+8740,2130706433,0,adminhtml_system_config,"2018-10-12 05:35:58",view,"{""general"":""socialshare""}",success,ganfanghua,17,adminhtml_system_config_index,,127.0.0.1
+8741,2130706433,0,adminhtml_system_config,"2018-10-12 05:36:04",view,"{""general"":""smtp""}",success,ganfanghua,17,adminhtml_system_config_edit,,127.0.0.1
+8742,3232238092,0,admin_login,"2018-10-12 10:00:58",login,"{""general"":null}",success,ganfanghua,17,adminhtml_index_index,,192.168.10.12
+8743,3232238092,0,adminhtml_system_config,"2018-10-12 10:01:30",view,"{""general"":""socialshare""}",success,ganfanghua,17,adminhtml_system_config_index,,192.168.10.12
+8744,3232238092,0,adminhtml_system_config,"2018-10-12 10:01:35",view,"{""general"":""smtp""}",success,ganfanghua,17,adminhtml_system_config_edit,,192.168.10.12
+8745,3232238092,0,adminhtml_system_config,"2018-10-12 10:04:03",save,"{""general"":""smtp""}",success,ganfanghua,17,adminhtml_system_config_save,,192.168.10.12
+8746,3232238092,0,adminhtml_system_config,"2018-10-12 10:04:40",view,"{""general"":""smtp""}",success,ganfanghua,17,adminhtml_system_config_edit,,192.168.10.12
+8747,3232238108,0,customer,"2018-10-12 10:10:41",massDelete,"{""general"":""15863""}",success,ganfanghua,17,customer_index_massDelete,,192.168.10.28
+8748,3232238108,0,magento_giftcardaccount,"2018-10-12 10:11:36",view,"{""general"":""9""}",success,ganfanghua,17,adminhtml_giftcardaccount_edit,,192.168.10.28
+8749,3232238108,0,magento_giftcardaccount,"2018-10-12 10:24:44",save,"{""general"":""9""}",success,ganfanghua,17,adminhtml_giftcardaccount_save,,192.168.10.28

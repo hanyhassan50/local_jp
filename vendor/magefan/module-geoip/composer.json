@@ -1,0 +1,18 @@
+{
+    "name": "magefan/module-geoip",
+    "description": "Allows to get country code by IP",
+    "require": {
+        "php": "~5.6.5 || >=7.0",
+        "geoip2/geoip2": "^2.9.0"
+    },
+    "type": "magento2-module",
+    "version": "2.0.5",
+    "autoload": {
+        "psr-4": {
+            "Magefan\\GeoIp\\": ""
+        },
+        "files": [
+            "registration.php"
+        ]
+    }
+}

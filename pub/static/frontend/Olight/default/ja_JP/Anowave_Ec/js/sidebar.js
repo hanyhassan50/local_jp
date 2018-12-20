@@ -1,0 +1,1 @@
+/olight/wwwroot/ceikit.store.jp/app/code/Anowave/Ec/view/frontend/web/js/sidebar.js

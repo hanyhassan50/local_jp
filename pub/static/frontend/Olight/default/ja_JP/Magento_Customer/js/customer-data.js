@@ -1,0 +1,1 @@
+/olight/wwwroot/ceikit.store.jp/vendor/magento/module-customer/view/frontend/web/js/customer-data.js

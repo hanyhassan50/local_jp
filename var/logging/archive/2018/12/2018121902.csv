@@ -1,0 +1,723 @@
+9771,2130706433,0,admin_login,"2018-10-18 02:07:49",login,"{""general"":null}",success,teddy,27,adminhtml_index_index,,127.0.0.1
+9772,2130706433,45,magento_giftcardaccount,"2018-10-18 02:11:43",view,"{""general"":""11""}",success,ganfanghua,17,adminhtml_giftcardaccount_edit,,127.0.0.1
+9773,2130706433,219,adminhtml_system_config,"2018-10-18 02:13:53",view,"{""general"":""giftcard""}",success,"Vivi Peng",28,adminhtml_system_config_edit,,127.0.0.1
+9774,2130706433,219,adminhtml_system_config,"2018-10-18 02:13:57",view,"{""general"":""socialshare""}",success,"Vivi Peng",28,adminhtml_system_config_edit,,127.0.0.1
+9775,2130706433,219,adminhtml_system_config,"2018-10-18 02:14:00",view,"{""general"":""socialshare""}",success,"Vivi Peng",28,adminhtml_system_config_edit,,127.0.0.1
+9776,2130706433,219,adminhtml_system_config,"2018-10-18 02:14:05",view,"{""general"":""socialshare""}",success,"Vivi Peng",28,adminhtml_system_config_edit,,127.0.0.1
+9777,2130706433,0,admin_login,"2018-10-18 02:22:38",login,"{""general"":null}",success,Rachel,29,adminhtml_index_index,,127.0.0.1
+9778,2130706433,219,catalog_products,"2018-10-18 02:26:24",view,"{""general"":""16""}",success,Rachel,29,catalog_product_edit,,127.0.0.1
+9779,2130706433,45,adminhtml_system_config,"2018-10-18 02:31:11",view,"{""general"":""socialshare""}",success,teddy,27,adminhtml_system_config_index,,127.0.0.1
+9780,2130706433,219,catalog_products,"2018-10-18 02:39:00",view,"{""general"":""6""}",success,Rachel,29,catalog_product_edit,,127.0.0.1
+9781,2130706433,219,catalog_products,"2018-10-18 02:40:24",save,"{""general"":""6""}",success,Rachel,29,catalog_product_save,,127.0.0.1
+9782,2130706433,219,catalog_products,"2018-10-18 02:42:30",view,"{""general"":""4""}",success,Rachel,29,catalog_product_edit,,127.0.0.1
+9783,2130706433,219,catalog_products,"2018-10-18 02:42:34",view,"{""general"":""9""}",success,Rachel,29,catalog_product_edit,,127.0.0.1
+9784,2130706433,219,catalog_products,"2018-10-18 02:42:35",view,"{""general"":""10""}",success,Rachel,29,catalog_product_edit,,127.0.0.1
+9785,2130706433,219,catalog_products,"2018-10-18 02:43:33",view,"{""general"":""29""}",success,Rachel,29,catalog_product_edit,,127.0.0.1
+9786,2130706433,219,catalog_products,"2018-10-18 02:44:02",save,"{""general"":""9""}",success,Rachel,29,catalog_product_save,,127.0.0.1
+9787,2130706433,219,catalog_products,"2018-10-18 02:44:11",save,"{""general"":""4""}",success,Rachel,29,catalog_product_save,,127.0.0.1
+9788,2130706433,219,catalog_products,"2018-10-18 02:44:21",save,"{""general"":""29""}",success,Rachel,29,catalog_product_save,,127.0.0.1
+9789,2130706433,219,catalog_products,"2018-10-18 02:45:13",view,"{""general"":""100""}",success,Rachel,29,catalog_product_edit,,127.0.0.1
+9790,2130706433,219,catalog_products,"2018-10-18 02:48:22",view,"{""general"":""2""}",success,"Vivi Peng",28,catalog_product_edit,,127.0.0.1
+9791,2130706433,219,catalog_categories,"2018-10-18 02:50:07",view,"{""general"":""36""}",success,Rachel,29,catalog_category_edit,,127.0.0.1
+9792,2130706433,219,catalog_categories,"2018-10-18 02:57:38",view,"{""general"":""15""}",success,Rachel,29,catalog_category_edit,,127.0.0.1
+9793,2130706433,219,catalog_categories,"2018-10-18 02:57:47",view,"{""general"":""4""}",success,Rachel,29,catalog_category_edit,,127.0.0.1
+9794,2130706433,45,version_cms_pages,"2018-10-18 04:56:06",view,"{""general"":""14""}",success,teddy,27,adminhtml_cms_page_edit,,127.0.0.1
+9795,2130706433,45,cms_pages,"2018-10-18 04:59:21",save,"{""general"":""14""}",success,teddy,27,cms_page_save,,127.0.0.1
+9796,2130706433,45,version_cms_pages,"2018-10-18 04:59:30",view,"{""general"":""14""}",success,teddy,27,adminhtml_cms_page_edit,,127.0.0.1
+9797,2130706433,45,cms_pages,"2018-10-18 05:01:21",save,"{""general"":""14""}",success,teddy,27,cms_page_save,,127.0.0.1
+9798,2130706433,0,admin_login,"2018-10-18 05:35:02",login,"{""general"":null}",success,ganfanghua,17,adminhtml_index_index,,127.0.0.1
+9799,2130706433,45,newsletter_subscribers,"2018-10-18 05:35:28",massDelete,"{""general"":""15297""}",success,ganfanghua,17,newsletter_subscriber_massDelete,,127.0.0.1
+9800,2130706433,45,newsletter_subscribers,"2018-10-18 05:35:41",massDelete,"{""general"":""15290""}",success,ganfanghua,17,newsletter_subscriber_massDelete,,127.0.0.1
+9801,2130706433,45,customer,"2018-10-18 05:36:24",massDelete,"{""general"":""15870""}",success,ganfanghua,17,customer_index_massDelete,,127.0.0.1
+9802,2130706433,45,adminhtml_system_config,"2018-10-18 06:04:27",view,"{""general"":""socialshare""}",success,teddy,27,adminhtml_system_config_index,,127.0.0.1
+9803,2130706433,45,adminhtml_system_config,"2018-10-18 06:04:46",view,"{""general"":""idevaffiliate""}",success,teddy,27,adminhtml_system_config_edit,,127.0.0.1
+9804,2130706433,45,adminhtml_system_config,"2018-10-18 06:05:32",save,"{""general"":""idevaffiliate""}",success,teddy,27,adminhtml_system_config_save,,127.0.0.1
+9805,2130706433,45,adminhtml_system_config,"2018-10-18 06:07:49",save,"{""general"":""idevaffiliate""}",success,teddy,27,adminhtml_system_config_save,,127.0.0.1
+9806,2130706433,45,cache_management,"2018-10-18 06:11:56",save,"{""general"":""Cache types: config, layout, block_html, collections, reflection, db_ddl, eav, customer_notification, full_page, config_integration, config_integration_api, target_rule, translate, config_webservice, vertex ""}",success,teddy,27,adminhtml_cache_massRefresh,,127.0.0.1
+9807,2130706433,45,adminhtml_system_config,"2018-10-18 06:12:21",view,"{""general"":""socialshare""}",success,teddy,27,adminhtml_system_config_index,,127.0.0.1
+9808,2130706433,45,adminhtml_system_config,"2018-10-18 06:12:25",view,"{""general"":""idevaffiliate""}",success,teddy,27,adminhtml_system_config_edit,,127.0.0.1
+9809,2130706433,45,adminhtml_system_config,"2018-10-18 06:12:45",save,"{""general"":""idevaffiliate""}",success,teddy,27,adminhtml_system_config_save,,127.0.0.1
+9810,2130706433,45,adminhtml_system_config,"2018-10-18 06:17:37",save,"{""general"":""idevaffiliate""}",success,teddy,27,adminhtml_system_config_save,,127.0.0.1
+9811,2130706433,45,catalog_categories,"2018-10-18 06:25:09",view,"{""general"":""7""}",success,teddy,27,catalog_category_edit,,127.0.0.1
+9812,2130706433,45,catalog_categories,"2018-10-18 06:25:17",save,"{""general"":""7""}",success,teddy,27,catalog_category_save,,127.0.0.1
+9813,2130706433,45,catalog_categories,"2018-10-18 06:25:18",view,"{""general"":""7""}",success,teddy,27,catalog_category_edit,,127.0.0.1
+9814,2130706433,45,adminhtml_system_config,"2018-10-18 06:25:28",view,"{""general"":""socialshare""}",success,teddy,27,adminhtml_system_config_index,,127.0.0.1
+9815,2130706433,45,adminhtml_system_config,"2018-10-18 06:25:34",view,"{""general"":""cms""}",success,teddy,27,adminhtml_system_config_edit,,127.0.0.1
+9816,2130706433,45,adminhtml_system_config,"2018-10-18 06:25:46",view,"{""general"":""cms""}",success,teddy,27,adminhtml_system_config_edit,,127.0.0.1
+9817,2130706433,45,adminhtml_system_config,"2018-10-18 06:26:03",save,"{""general"":""cms""}",success,teddy,27,adminhtml_system_config_save,,127.0.0.1
+9818,2130706433,45,adminhtml_system_config,"2018-10-18 06:26:11",view,"{""general"":""cms""}",success,teddy,27,adminhtml_system_config_edit,,127.0.0.1
+9819,2130706433,45,adminhtml_system_config,"2018-10-18 06:26:15",view,"{""general"":""cms""}",success,teddy,27,adminhtml_system_config_edit,,127.0.0.1
+9820,2130706433,45,version_cms_pages,"2018-10-18 06:30:49",view,"{""general"":""10""}",success,teddy,27,adminhtml_cms_page_edit,,127.0.0.1
+9821,2130706433,45,cms_pages,"2018-10-18 06:33:13",save,"{""general"":""10""}",success,teddy,27,cms_page_save,,127.0.0.1
+9822,2130706433,45,version_cms_pages,"2018-10-18 06:36:13",view,"{""general"":""10""}",success,teddy,27,adminhtml_cms_page_edit,,127.0.0.1
+9823,2130706433,45,cms_pages,"2018-10-18 06:36:28",save,"{""general"":""10""}",success,teddy,27,cms_page_save,,127.0.0.1
+9824,2130706433,45,adminhtml_system_config,"2018-10-18 06:37:26",view,"{""general"":""socialshare""}",success,teddy,27,adminhtml_system_config_index,,127.0.0.1
+9825,2130706433,45,adminhtml_system_config,"2018-10-18 06:37:31",view,"{""general"":""cms""}",success,teddy,27,adminhtml_system_config_edit,,127.0.0.1
+9826,2130706433,45,adminhtml_system_config,"2018-10-18 06:37:37",save,"{""general"":""cms""}",success,teddy,27,adminhtml_system_config_save,,127.0.0.1
+9827,2130706433,45,adminhtml_system_config,"2018-10-18 06:37:43",view,"{""general"":""cms""}",success,teddy,27,adminhtml_system_config_edit,,127.0.0.1
+9828,2130706433,45,adminhtml_system_config,"2018-10-18 06:37:47",save,"{""general"":""cms""}",success,teddy,27,adminhtml_system_config_save,,127.0.0.1
+9829,2130706433,45,catalog_products,"2018-10-18 06:50:50",view,"{""general"":""4""}",success,teddy,27,catalog_product_edit,,127.0.0.1
+9830,2130706433,45,catalog_products,"2018-10-18 07:03:33",view,"{""general"":""3""}",success,teddy,27,catalog_product_edit,,127.0.0.1
+9831,2130706433,45,adminhtml_system_config,"2018-10-18 07:08:13",view,"{""general"":""socialshare""}",success,teddy,27,adminhtml_system_config_index,,127.0.0.1
+9832,2130706433,45,adminhtml_system_config,"2018-10-18 07:08:53",view,"{""general"":""socialshare""}",success,teddy,27,adminhtml_system_config_index,,127.0.0.1
+9833,2130706433,0,admin_login,"2018-10-18 07:11:13",login,"{""general"":null}",success,Rachel,29,adminhtml_index_index,,127.0.0.1
+9834,2130706433,45,cms_blocks,"2018-10-18 07:37:20",view,"{""general"":""10""}",success,teddy,27,cms_block_edit,,127.0.0.1
+9835,2130706433,45,cms_blocks,"2018-10-18 07:38:17",save,"{""general"":""10""}",success,teddy,27,cms_block_save,,127.0.0.1
+9836,2130706433,219,catalog_products,"2018-10-18 08:03:58",view,"{""general"":""136""}",success,Rachel,29,catalog_product_edit,,127.0.0.1
+9837,2130706433,219,catalog_products,"2018-10-18 08:06:17",save,"{""general"":""136""}",success,Rachel,29,catalog_product_save,,127.0.0.1
+9838,2130706433,219,catalog_categories,"2018-10-18 08:07:07",view,"{""general"":""4""}",success,Rachel,29,catalog_category_edit,,127.0.0.1
+9839,2130706433,219,catalog_products,"2018-10-18 08:08:02",view,"{""general"":""140""}",success,Rachel,29,catalog_product_edit,,127.0.0.1
+9840,2130706433,219,catalog_products,"2018-10-18 08:09:18",save,"{""general"":""140""}",success,Rachel,29,catalog_product_save,,127.0.0.1
+9841,2130706433,45,adminhtml_system_config,"2018-10-18 08:12:03",view,"{""general"":""socialshare""}",success,teddy,27,adminhtml_system_config_index,,127.0.0.1
+9842,2130706433,45,adminhtml_system_config,"2018-10-18 08:12:13",view,"{""general"":""google""}",success,teddy,27,adminhtml_system_config_edit,,127.0.0.1
+9843,2130706433,219,catalog_products,"2018-10-18 08:12:24",save,"{""general"":""140""}",success,Rachel,29,catalog_product_save,,127.0.0.1
+9844,2130706433,45,adminhtml_system_config,"2018-10-18 08:12:44",save,"{""general"":""google""}",success,teddy,27,adminhtml_system_config_save,,127.0.0.1
+9845,2130706433,219,catalog_categories,"2018-10-18 08:13:50",view,"{""general"":""4""}",success,Rachel,29,catalog_category_edit,,127.0.0.1
+9846,2130706433,219,catalog_categories,"2018-10-18 08:23:06",view,"{""general"":""4""}",success,Rachel,29,catalog_category_edit,,127.0.0.1
+9847,2130706433,219,catalog_categories,"2018-10-18 08:27:47",save,"{""general"":""4""}",success,Rachel,29,catalog_category_save,,127.0.0.1
+9848,2130706433,219,catalog_categories,"2018-10-18 08:27:48",view,"{""general"":""4""}",success,Rachel,29,catalog_category_edit,,127.0.0.1
+9849,2130706433,219,catalog_categories,"2018-10-18 08:27:54",view,"{""general"":""2""}",success,Rachel,29,catalog_category_edit,,127.0.0.1
+9850,2130706433,219,catalog_categories,"2018-10-18 08:28:13",view,"{""general"":""5""}",success,Rachel,29,catalog_category_edit,,127.0.0.1
+9851,2130706433,219,catalog_categories,"2018-10-18 08:30:00",save,"{""general"":""5""}",success,Rachel,29,catalog_category_save,,127.0.0.1
+9852,2130706433,219,catalog_categories,"2018-10-18 08:30:01",view,"{""general"":""5""}",success,Rachel,29,catalog_category_edit,,127.0.0.1
+9853,2130706433,219,catalog_categories,"2018-10-18 08:30:05",view,"{""general"":""6""}",success,Rachel,29,catalog_category_edit,,127.0.0.1
+9854,2130706433,219,catalog_categories,"2018-10-18 08:31:41",save,"{""general"":""6""}",success,Rachel,29,catalog_category_save,,127.0.0.1
+9855,2130706433,219,catalog_categories,"2018-10-18 08:31:42",view,"{""general"":""6""}",success,Rachel,29,catalog_category_edit,,127.0.0.1
+9856,2130706433,219,catalog_categories,"2018-10-18 08:31:51",view,"{""general"":""36""}",success,Rachel,29,catalog_category_edit,,127.0.0.1
+9857,2130706433,219,catalog_categories,"2018-10-18 08:35:25",save,"{""general"":""36""}",success,Rachel,29,catalog_category_save,,127.0.0.1
+9858,2130706433,219,catalog_categories,"2018-10-18 08:35:26",view,"{""general"":""36""}",success,Rachel,29,catalog_category_edit,,127.0.0.1
+9859,2130706433,219,catalog_categories,"2018-10-18 08:35:35",view,"{""general"":""4""}",success,Rachel,29,catalog_category_edit,,127.0.0.1
+9860,2130706433,219,catalog_categories,"2018-10-18 08:39:07",save,"{""general"":""4""}",success,Rachel,29,catalog_category_save,,127.0.0.1
+9861,2130706433,219,catalog_categories,"2018-10-18 08:39:08",view,"{""general"":""4""}",success,Rachel,29,catalog_category_edit,,127.0.0.1
+9862,2130706433,219,catalog_categories,"2018-10-18 08:39:18",view,"{""general"":""15""}",success,Rachel,29,catalog_category_edit,,127.0.0.1
+9863,2130706433,219,catalog_categories,"2018-10-18 08:40:33",save,"{""general"":""15""}",success,Rachel,29,catalog_category_save,,127.0.0.1
+9864,2130706433,219,catalog_categories,"2018-10-18 08:40:34",view,"{""general"":""15""}",success,Rachel,29,catalog_category_edit,,127.0.0.1
+9865,2130706433,219,catalog_categories,"2018-10-18 08:40:53",view,"{""general"":""16""}",success,Rachel,29,catalog_category_edit,,127.0.0.1
+9866,2130706433,219,catalog_categories,"2018-10-18 08:41:04",view,"{""general"":""12""}",success,Rachel,29,catalog_category_edit,,127.0.0.1
+9867,2130706433,219,catalog_categories,"2018-10-18 08:42:57",save,"{""general"":""12""}",success,Rachel,29,catalog_category_save,,127.0.0.1
+9868,2130706433,219,catalog_categories,"2018-10-18 08:42:58",view,"{""general"":""12""}",success,Rachel,29,catalog_category_edit,,127.0.0.1
+9869,2130706433,219,catalog_categories,"2018-10-18 08:43:02",view,"{""general"":""9""}",success,Rachel,29,catalog_category_edit,,127.0.0.1
+9870,2130706433,219,catalog_categories,"2018-10-18 08:50:24",save,"{""general"":""9""}",success,Rachel,29,catalog_category_save,,127.0.0.1
+9871,2130706433,219,catalog_categories,"2018-10-18 08:50:25",view,"{""general"":""9""}",success,Rachel,29,catalog_category_edit,,127.0.0.1
+9872,2130706433,219,catalog_categories,"2018-10-18 08:50:29",view,"{""general"":""10""}",success,Rachel,29,catalog_category_edit,,127.0.0.1
+9873,2130706433,219,catalog_categories,"2018-10-18 08:53:07",save,"{""general"":""10""}",success,Rachel,29,catalog_category_save,,127.0.0.1
+9874,2130706433,219,catalog_categories,"2018-10-18 08:53:07",view,"{""general"":""10""}",success,Rachel,29,catalog_category_edit,,127.0.0.1
+9875,2130706433,219,catalog_categories,"2018-10-18 08:53:12",view,"{""general"":""11""}",success,Rachel,29,catalog_category_edit,,127.0.0.1
+9876,2130706433,219,catalog_categories,"2018-10-18 08:54:54",save,"{""general"":""11""}",success,Rachel,29,catalog_category_save,,127.0.0.1
+9877,2130706433,219,catalog_categories,"2018-10-18 08:54:55",view,"{""general"":""11""}",success,Rachel,29,catalog_category_edit,,127.0.0.1
+9878,2130706433,219,catalog_categories,"2018-10-18 08:54:59",view,"{""general"":""10""}",success,Rachel,29,catalog_category_edit,,127.0.0.1
+9879,2130706433,219,catalog_categories,"2018-10-18 08:55:12",save,"{""general"":""10""}",success,Rachel,29,catalog_category_save,,127.0.0.1
+9880,2130706433,219,catalog_categories,"2018-10-18 08:55:12",view,"{""general"":""10""}",success,Rachel,29,catalog_category_edit,,127.0.0.1
+9881,2130706433,219,catalog_categories,"2018-10-18 08:55:34",view,"{""general"":""8""}",success,Rachel,29,catalog_category_edit,,127.0.0.1
+9882,2130706433,219,catalog_categories,"2018-10-18 08:56:53",save,"{""general"":""8""}",success,Rachel,29,catalog_category_save,,127.0.0.1
+9883,2130706433,219,catalog_categories,"2018-10-18 08:56:54",view,"{""general"":""8""}",success,Rachel,29,catalog_category_edit,,127.0.0.1
+9884,2130706433,219,catalog_categories,"2018-10-18 08:57:09",view,"{""general"":""17""}",success,Rachel,29,catalog_category_edit,,127.0.0.1
+9885,2130706433,219,catalog_categories,"2018-10-18 08:59:07",save,"{""general"":""17""}",success,Rachel,29,catalog_category_save,,127.0.0.1
+9886,2130706433,219,catalog_categories,"2018-10-18 08:59:08",view,"{""general"":""17""}",success,Rachel,29,catalog_category_edit,,127.0.0.1
+9887,2130706433,219,catalog_categories,"2018-10-18 09:03:35",view,"{""general"":""17""}",success,Rachel,29,catalog_category_edit,,127.0.0.1
+9888,2130706433,219,catalog_categories,"2018-10-18 09:04:47",view,"{""general"":""18""}",success,Rachel,29,catalog_category_edit,,127.0.0.1
+9889,2130706433,219,catalog_categories,"2018-10-18 09:06:29",view,"{""general"":""38""}",success,Rachel,29,catalog_category_edit,,127.0.0.1
+9890,2130706433,219,catalog_categories,"2018-10-18 09:06:40",view,"{""general"":""2""}",success,Rachel,29,catalog_category_edit,,127.0.0.1
+9891,2130706433,219,catalog_categories,"2018-10-18 09:06:50",view,"{""general"":""4""}",success,Rachel,29,catalog_category_edit,,127.0.0.1
+9892,2130706433,219,catalog_categories,"2018-10-18 09:06:58",view,"{""general"":""5""}",success,Rachel,29,catalog_category_edit,,127.0.0.1
+9893,2130706433,219,catalog_categories,"2018-10-18 09:07:10",save,"{""general"":""5""}",success,Rachel,29,catalog_category_save,,127.0.0.1
+9894,2130706433,219,catalog_categories,"2018-10-18 09:07:11",view,"{""general"":""5""}",success,Rachel,29,catalog_category_edit,,127.0.0.1
+9895,2130706433,219,catalog_products,"2018-10-18 09:17:28",view,"{""general"":""140""}",success,Rachel,29,catalog_product_edit,,127.0.0.1
+9896,2130706433,219,catalog_products,"2018-10-18 09:18:05",view,"{""general"":""136""}",success,Rachel,29,catalog_product_edit,,127.0.0.1
+9897,2130706433,219,catalog_categories,"2018-10-18 09:23:09",view,"{""general"":""3""}",success,Rachel,29,catalog_category_edit,,127.0.0.1
+9898,2130706433,219,catalog_categories,"2018-10-18 09:23:38",view,"{""general"":""4""}",success,Rachel,29,catalog_category_edit,,127.0.0.1
+9899,2130706433,219,catalog_products,"2018-10-18 09:25:39",view,"{""general"":""140""}",success,Rachel,29,catalog_product_edit,,127.0.0.1
+9900,2130706433,219,catalog_products,"2018-10-18 09:28:11",save,"{""general"":""140""}",success,Rachel,29,catalog_product_save,,127.0.0.1
+9901,2130706433,219,catalog_products,"2018-10-18 09:28:35",save,"{""general"":""140""}",success,Rachel,29,catalog_product_save,,127.0.0.1
+9902,2130706433,219,catalog_categories,"2018-10-18 09:28:38",view,"{""general"":""4""}",success,Rachel,29,catalog_category_edit,,127.0.0.1
+9903,2130706433,219,catalog_categories,"2018-10-18 09:30:38",save,"{""general"":""4""}",success,Rachel,29,catalog_category_save,,127.0.0.1
+9904,2130706433,219,catalog_categories,"2018-10-18 09:30:39",view,"{""general"":""4""}",success,Rachel,29,catalog_category_edit,,127.0.0.1
+9905,2130706433,219,catalog_categories,"2018-10-18 09:31:16",view,"{""general"":""12""}",success,Rachel,29,catalog_category_edit,,127.0.0.1
+9906,2130706433,219,catalog_categories,"2018-10-18 09:33:02",view,"{""general"":""10""}",success,Rachel,29,catalog_category_edit,,127.0.0.1
+9907,2130706433,219,catalog_categories,"2018-10-18 09:33:07",save,"{""general"":""10""}",success,Rachel,29,catalog_category_save,,127.0.0.1
+9908,2130706433,219,catalog_categories,"2018-10-18 09:33:08",view,"{""general"":""10""}",success,Rachel,29,catalog_category_edit,,127.0.0.1
+9909,2130706433,219,catalog_categories,"2018-10-18 09:33:18",view,"{""general"":""8""}",success,Rachel,29,catalog_category_edit,,127.0.0.1
+9910,2130706433,219,catalog_categories,"2018-10-18 09:34:13",view,"{""general"":""4""}",success,Rachel,29,catalog_category_edit,,127.0.0.1
+9911,2130706433,219,catalog_categories,"2018-10-18 09:35:21",save,"{""general"":""4""}",success,Rachel,29,catalog_category_save,,127.0.0.1
+9912,2130706433,219,catalog_categories,"2018-10-18 09:35:22",view,"{""general"":""4""}",success,Rachel,29,catalog_category_edit,,127.0.0.1
+9913,2130706433,45,magento_giftcardaccount,"2018-10-18 09:37:11",save,"{""general"":""12""}",success,teddy,27,adminhtml_giftcardaccount_save,,127.0.0.1
+9914,2130706433,45,magento_giftcardaccount,"2018-10-18 09:37:17",view,"{""general"":""12""}",success,teddy,27,adminhtml_giftcardaccount_edit,,127.0.0.1
+9915,2130706433,0,admin_login,"2018-10-18 12:05:49",login,"{""general"":null}",success,Rachel,29,adminhtml_index_index,,127.0.0.1
+9916,2130706433,219,catalog_products,"2018-10-18 12:06:22",view,"{""general"":""1""}",success,Rachel,29,catalog_product_edit,,127.0.0.1
+9917,2130706433,219,catalog_products,"2018-10-18 12:06:23",view,"{""general"":""2""}",success,Rachel,29,catalog_product_edit,,127.0.0.1
+9918,2130706433,219,catalog_products,"2018-10-18 12:06:25",view,"{""general"":""3""}",success,Rachel,29,catalog_product_edit,,127.0.0.1
+9919,2130706433,219,catalog_products,"2018-10-18 12:06:26",view,"{""general"":""4""}",success,Rachel,29,catalog_product_edit,,127.0.0.1
+9920,2130706433,219,catalog_products,"2018-10-18 12:06:28",view,"{""general"":""5""}",success,Rachel,29,catalog_product_edit,,127.0.0.1
+9921,2130706433,219,catalog_products,"2018-10-18 12:06:31",view,"{""general"":""6""}",success,Rachel,29,catalog_product_edit,,127.0.0.1
+9922,2130706433,219,catalog_products,"2018-10-18 12:06:32",view,"{""general"":""7""}",success,Rachel,29,catalog_product_edit,,127.0.0.1
+9923,2130706433,219,catalog_products,"2018-10-18 12:06:33",view,"{""general"":""8""}",success,Rachel,29,catalog_product_edit,,127.0.0.1
+9924,2130706433,219,catalog_products,"2018-10-18 12:06:34",view,"{""general"":""9""}",success,Rachel,29,catalog_product_edit,,127.0.0.1
+9925,2130706433,219,catalog_products,"2018-10-18 12:06:37",view,"{""general"":""12""}",success,Rachel,29,catalog_product_edit,,127.0.0.1
+9926,2130706433,219,catalog_products,"2018-10-18 12:06:38",view,"{""general"":""13""}",success,Rachel,29,catalog_product_edit,,127.0.0.1
+9927,2130706433,219,catalog_products,"2018-10-18 12:06:43",view,"{""general"":""11""}",success,Rachel,29,catalog_product_edit,,127.0.0.1
+9928,2130706433,219,catalog_products,"2018-10-18 12:06:44",view,"{""general"":""10""}",success,Rachel,29,catalog_product_edit,,127.0.0.1
+9929,2130706433,219,catalog_products,"2018-10-18 12:07:25",save,"{""general"":""1, 2, 3""}",success,Rachel,29,catalog_product_save,,127.0.0.1
+9930,2130706433,219,catalog_products,"2018-10-18 12:07:55",save,"{""general"":""2, 1, 3, 36, 47""}",success,Rachel,29,catalog_product_save,,127.0.0.1
+9931,2130706433,219,catalog_products,"2018-10-18 12:08:19",save,"{""general"":""3, 1, 2, 41, 42, 129""}",success,Rachel,29,catalog_product_save,,127.0.0.1
+9932,2130706433,219,catalog_products,"2018-10-18 12:08:36",save,"{""general"":""4""}",success,Rachel,29,catalog_product_save,,127.0.0.1
+9933,2130706433,219,catalog_products,"2018-10-18 12:09:09",save,"{""general"":""5, 32""}",success,Rachel,29,catalog_product_save,,127.0.0.1
+9934,2130706433,219,catalog_products,"2018-10-18 12:09:27",save,"{""general"":""6""}",success,Rachel,29,catalog_product_save,,127.0.0.1
+9935,2130706433,219,catalog_products,"2018-10-18 12:09:49",save,"{""general"":""7""}",success,Rachel,29,catalog_product_save,,127.0.0.1
+9936,2130706433,219,catalog_products,"2018-10-18 12:10:46",save,"{""general"":""8, 11, 12, 13, 37, 47""}",success,Rachel,29,catalog_product_save,,127.0.0.1
+9937,2130706433,219,catalog_products,"2018-10-18 12:11:03",save,"{""general"":""9""}",success,Rachel,29,catalog_product_save,,127.0.0.1
+9938,2130706433,219,catalog_products,"2018-10-18 12:11:21",save,"{""general"":""12, 8, 11, 13""}",success,Rachel,29,catalog_product_save,,127.0.0.1
+9939,2130706433,219,catalog_products,"2018-10-18 12:11:46",save,"{""general"":""13, 8, 11, 12, 41, 42, 129""}",success,Rachel,29,catalog_product_save,,127.0.0.1
+9940,2130706433,219,catalog_products,"2018-10-18 12:11:56",save,"{""general"":""11, 8, 12, 16, 39""}",success,Rachel,29,catalog_product_save,,127.0.0.1
+9941,2130706433,219,catalog_products,"2018-10-18 12:12:11",save,"{""general"":""10""}",success,Rachel,29,catalog_product_save,,127.0.0.1
+9942,2130706433,219,catalog_products,"2018-10-18 12:12:26",view,"{""general"":""11""}",success,Rachel,29,catalog_product_edit,,127.0.0.1
+9943,2130706433,219,catalog_products,"2018-10-18 12:12:43",view,"{""general"":""12""}",success,Rachel,29,catalog_product_edit,,127.0.0.1
+9944,2130706433,219,catalog_products,"2018-10-18 12:12:44",view,"{""general"":""13""}",success,Rachel,29,catalog_product_edit,,127.0.0.1
+9945,2130706433,219,catalog_products,"2018-10-18 12:12:59",view,"{""general"":""14""}",success,Rachel,29,catalog_product_edit,,127.0.0.1
+9946,2130706433,219,catalog_products,"2018-10-18 12:13:00",view,"{""general"":""15""}",success,Rachel,29,catalog_product_edit,,127.0.0.1
+9947,2130706433,219,catalog_products,"2018-10-18 12:13:01",view,"{""general"":""16""}",success,Rachel,29,catalog_product_edit,,127.0.0.1
+9948,2130706433,219,catalog_products,"2018-10-18 12:13:02",view,"{""general"":""17""}",success,Rachel,29,catalog_product_edit,,127.0.0.1
+9949,2130706433,219,catalog_products,"2018-10-18 12:13:02",view,"{""general"":""18""}",success,Rachel,29,catalog_product_edit,,127.0.0.1
+9950,2130706433,219,catalog_products,"2018-10-18 12:13:03",view,"{""general"":""19""}",success,Rachel,29,catalog_product_edit,,127.0.0.1
+9951,2130706433,219,catalog_products,"2018-10-18 12:13:04",view,"{""general"":""20""}",success,Rachel,29,catalog_product_edit,,127.0.0.1
+9952,2130706433,219,catalog_products,"2018-10-18 12:13:26",save,"{""general"":""14, 5, 15""}",success,Rachel,29,catalog_product_save,,127.0.0.1
+9953,2130706433,219,catalog_products,"2018-10-18 12:13:40",save,"{""general"":""15, 5, 14""}",success,Rachel,29,catalog_product_save,,127.0.0.1
+9954,2130706433,219,catalog_products,"2018-10-18 12:14:01",save,"{""general"":""16, 2, 23""}",success,Rachel,29,catalog_product_save,,127.0.0.1
+9955,2130706433,219,catalog_products,"2018-10-18 12:14:39",save,"{""general"":""17""}",success,Rachel,29,catalog_product_save,,127.0.0.1
+9956,2130706433,219,catalog_products,"2018-10-18 12:15:01",save,"{""general"":""18""}",success,Rachel,29,catalog_product_save,,127.0.0.1
+9957,2130706433,219,catalog_products,"2018-10-18 12:15:15",save,"{""general"":""19""}",success,Rachel,29,catalog_product_save,,127.0.0.1
+9958,2130706433,219,catalog_products,"2018-10-18 12:16:05",save,"{""general"":""20""}",success,Rachel,29,catalog_product_save,,127.0.0.1
+9959,2130706433,219,catalog_products,"2018-10-18 12:16:23",view,"{""general"":""21""}",success,Rachel,29,catalog_product_edit,,127.0.0.1
+9960,2130706433,219,catalog_products,"2018-10-18 12:16:24",view,"{""general"":""22""}",success,Rachel,29,catalog_product_edit,,127.0.0.1
+9961,2130706433,219,catalog_products,"2018-10-18 12:16:25",view,"{""general"":""23""}",success,Rachel,29,catalog_product_edit,,127.0.0.1
+9962,2130706433,219,catalog_products,"2018-10-18 12:16:26",view,"{""general"":""24""}",success,Rachel,29,catalog_product_edit,,127.0.0.1
+9963,2130706433,219,catalog_products,"2018-10-18 12:16:30",view,"{""general"":""25""}",success,Rachel,29,catalog_product_edit,,127.0.0.1
+9964,2130706433,219,catalog_products,"2018-10-18 12:16:31",view,"{""general"":""26""}",success,Rachel,29,catalog_product_edit,,127.0.0.1
+9965,2130706433,219,catalog_products,"2018-10-18 12:16:31",view,"{""general"":""27""}",success,Rachel,29,catalog_product_edit,,127.0.0.1
+9966,2130706433,219,catalog_products,"2018-10-18 12:16:33",view,"{""general"":""28""}",success,Rachel,29,catalog_product_edit,,127.0.0.1
+9967,2130706433,219,catalog_products,"2018-10-18 12:16:34",view,"{""general"":""29""}",success,Rachel,29,catalog_product_edit,,127.0.0.1
+9968,2130706433,219,catalog_products,"2018-10-18 12:16:35",view,"{""general"":""30""}",success,Rachel,29,catalog_product_edit,,127.0.0.1
+9969,2130706433,219,catalog_products,"2018-10-18 12:16:37",view,"{""general"":""31""}",success,Rachel,29,catalog_product_edit,,127.0.0.1
+9970,2130706433,219,catalog_products,"2018-10-18 12:16:38",view,"{""general"":""32""}",success,Rachel,29,catalog_product_edit,,127.0.0.1
+9971,2130706433,219,catalog_products,"2018-10-18 12:16:39",view,"{""general"":""33""}",success,Rachel,29,catalog_product_edit,,127.0.0.1
+9972,2130706433,219,catalog_products,"2018-10-18 12:16:42",view,"{""general"":""34""}",success,Rachel,29,catalog_product_edit,,127.0.0.1
+9973,2130706433,219,catalog_products,"2018-10-18 12:17:22",save,"{""general"":""21""}",success,Rachel,29,catalog_product_save,,127.0.0.1
+9974,2130706433,219,catalog_products,"2018-10-18 12:17:56",save,"{""general"":""22, 8, 11, 16, 35, 37, 40""}",success,Rachel,29,catalog_product_save,,127.0.0.1
+9975,2130706433,219,catalog_products,"2018-10-18 12:18:19",save,"{""general"":""23, 16""}",success,Rachel,29,catalog_product_save,,127.0.0.1
+9976,2130706433,219,catalog_products,"2018-10-18 12:18:39",save,"{""general"":""24, 25, 29, 31, 41, 129, 85""}",success,Rachel,29,catalog_product_save,,127.0.0.1
+9977,2130706433,219,catalog_products,"2018-10-18 12:19:04",save,"{""general"":""26""}",success,Rachel,29,catalog_product_save,,127.0.0.1
+9978,2130706433,219,catalog_products,"2018-10-18 12:19:26",save,"{""general"":""28""}",success,Rachel,29,catalog_product_save,,127.0.0.1
+9979,2130706433,219,catalog_products,"2018-10-18 12:19:33",view,"{""general"":""26""}",success,Rachel,29,catalog_product_edit,,127.0.0.1
+9980,2130706433,219,catalog_products,"2018-10-18 12:19:52",save,"{""general"":""26""}",success,Rachel,29,catalog_product_save,,127.0.0.1
+9981,2130706433,219,catalog_products,"2018-10-18 12:19:55",save,"{""general"":""27, 24, 29, 41, 129""}",success,Rachel,29,catalog_product_save,,127.0.0.1
+9982,2130706433,219,catalog_products,"2018-10-18 12:20:11",save,"{""general"":""28""}",success,Rachel,29,catalog_product_save,,127.0.0.1
+9983,2130706433,219,catalog_products,"2018-10-18 12:20:24",save,"{""general"":""27, 24, 29, 41, 129, 28""}",success,Rachel,29,catalog_product_save,,127.0.0.1
+9984,2130706433,219,catalog_products,"2018-10-18 12:20:49",save,"{""general"":""28, 24, 29, 41, 129""}",success,Rachel,29,catalog_product_save,,127.0.0.1
+9985,2130706433,219,catalog_products,"2018-10-18 12:21:03",save,"{""general"":""27""}",success,Rachel,29,catalog_product_save,,127.0.0.1
+9986,2130706433,219,catalog_products,"2018-10-18 12:22:04",save,"{""general"":""29""}",success,Rachel,29,catalog_product_save,,127.0.0.1
+9987,2130706433,219,catalog_products,"2018-10-18 12:22:26",save,"{""general"":""25, 24, 27, 30, 47, 85, 44""}",success,Rachel,29,catalog_product_save,,127.0.0.1
+9988,2130706433,219,catalog_products,"2018-10-18 12:22:44",save,"{""general"":""30, 35, 37, 129""}",success,Rachel,29,catalog_product_save,,127.0.0.1
+9989,2130706433,219,catalog_products,"2018-10-18 12:23:01",save,"{""general"":""31, 30, 33""}",success,Rachel,29,catalog_product_save,,127.0.0.1
+9990,2130706433,219,catalog_products,"2018-10-18 12:23:23",save,"{""general"":""32, 5""}",success,Rachel,29,catalog_product_save,,127.0.0.1
+9991,2130706433,219,catalog_products,"2018-10-18 12:23:36",save,"{""general"":""33, 31, 35, 37""}",success,Rachel,29,catalog_product_save,,127.0.0.1
+9992,2130706433,219,catalog_products,"2018-10-18 12:24:04",save,"{""general"":""34, 35, 36, 39""}",success,Rachel,29,catalog_product_save,,127.0.0.1
+9993,2130706433,219,catalog_products,"2018-10-18 12:24:46",view,"{""general"":""38""}",success,Rachel,29,catalog_product_edit,,127.0.0.1
+9994,2130706433,219,catalog_products,"2018-10-18 12:25:06",save,"{""general"":""38""}",success,Rachel,29,catalog_product_save,,127.0.0.1
+9995,2130706433,219,catalog_products,"2018-10-18 12:25:09",view,"{""general"":""37""}",success,Rachel,29,catalog_product_edit,,127.0.0.1
+9996,2130706433,219,catalog_products,"2018-10-18 12:25:10",view,"{""general"":""36""}",success,Rachel,29,catalog_product_edit,,127.0.0.1
+9997,2130706433,219,catalog_products,"2018-10-18 12:26:17",save,"{""general"":""37""}",success,Rachel,29,catalog_product_save,,127.0.0.1
+9998,2130706433,219,catalog_products,"2018-10-18 12:26:21",view,"{""general"":""36""}",success,Rachel,29,catalog_product_edit,,127.0.0.1
+9999,2130706433,219,catalog_products,"2018-10-18 12:26:36",save,"{""general"":""36, 35, 37, 34""}",success,Rachel,29,catalog_product_save,,127.0.0.1
+10000,2130706433,219,catalog_products,"2018-10-18 12:26:50",save,"{""general"":""37""}",success,Rachel,29,catalog_product_save,,127.0.0.1
+10001,2130706433,219,catalog_products,"2018-10-18 12:28:16",save,"{""general"":""36, 35, 37, 34""}",success,Rachel,29,catalog_product_save,,127.0.0.1
+10002,2130706433,219,catalog_products,"2018-10-18 12:28:18",save,"{""general"":""37""}",success,Rachel,29,catalog_product_save,,127.0.0.1
+10003,2130706433,219,catalog_products,"2018-10-18 12:28:30",view,"{""general"":""35""}",success,Rachel,29,catalog_product_edit,,127.0.0.1
+10004,2130706433,219,catalog_products,"2018-10-18 12:28:36",view,"{""general"":""39""}",success,Rachel,29,catalog_product_edit,,127.0.0.1
+10005,2130706433,219,catalog_products,"2018-10-18 12:28:39",view,"{""general"":""40""}",success,Rachel,29,catalog_product_edit,,127.0.0.1
+10006,2130706433,219,catalog_products,"2018-10-18 12:30:04",save,"{""general"":""35, 36, 34""}",success,Rachel,29,catalog_product_save,,127.0.0.1
+10007,2130706433,219,catalog_products,"2018-10-18 12:30:51",save,"{""general"":""39, 35, 36, 37, 49, 34""}",success,Rachel,29,catalog_product_save,,127.0.0.1
+10008,2130706433,219,catalog_products,"2018-10-18 12:32:05",save,"{""general"":""40""}",success,Rachel,29,catalog_product_save,,127.0.0.1
+10009,2130706433,219,catalog_products,"2018-10-18 12:33:03",view,"{""general"":""140""}",success,Rachel,29,catalog_product_edit,,127.0.0.1
+10010,2130706433,219,catalog_products,"2018-10-18 12:33:05",view,"{""general"":""139""}",success,Rachel,29,catalog_product_edit,,127.0.0.1
+10011,2130706433,219,catalog_products,"2018-10-18 12:33:07",view,"{""general"":""137""}",success,Rachel,29,catalog_product_edit,,127.0.0.1
+10012,2130706433,219,catalog_products,"2018-10-18 12:33:09",view,"{""general"":""136""}",success,Rachel,29,catalog_product_edit,,127.0.0.1
+10013,2130706433,219,catalog_products,"2018-10-18 12:33:10",view,"{""general"":""135""}",success,Rachel,29,catalog_product_edit,,127.0.0.1
+10014,2130706433,219,catalog_products,"2018-10-18 12:33:13",view,"{""general"":""132""}",success,Rachel,29,catalog_product_edit,,127.0.0.1
+10015,2130706433,219,catalog_products,"2018-10-18 12:33:15",view,"{""general"":""131""}",success,Rachel,29,catalog_product_edit,,127.0.0.1
+10016,2130706433,219,catalog_products,"2018-10-18 12:33:17",view,"{""general"":""130""}",success,Rachel,29,catalog_product_edit,,127.0.0.1
+10017,2130706433,219,catalog_products,"2018-10-18 12:33:43",view,"{""general"":""140""}",success,Rachel,29,catalog_product_edit,,127.0.0.1
+10018,2130706433,219,catalog_products,"2018-10-18 12:33:53",save,"{""general"":""140""}",success,Rachel,29,catalog_product_save,,127.0.0.1
+10019,2130706433,219,catalog_products,"2018-10-18 12:34:12",save,"{""general"":""139, 36, 47""}",success,Rachel,29,catalog_product_save,,127.0.0.1
+10020,2130706433,219,catalog_products,"2018-10-18 12:34:42",save,"{""general"":""137""}",success,Rachel,29,catalog_product_save,,127.0.0.1
+10021,2130706433,219,catalog_products,"2018-10-18 12:34:58",save,"{""general"":""136""}",success,Rachel,29,catalog_product_save,,127.0.0.1
+10022,2130706433,219,catalog_products,"2018-10-18 12:35:19",save,"{""general"":""135""}",success,Rachel,29,catalog_product_save,,127.0.0.1
+10023,2130706433,219,catalog_products,"2018-10-18 12:36:00",save,"{""general"":""135""}",success,Rachel,29,catalog_product_save,,127.0.0.1
+10024,2130706433,219,catalog_products,"2018-10-18 12:36:05",save,"{""general"":""132, 34""}",success,Rachel,29,catalog_product_save,,127.0.0.1
+10025,2130706433,219,catalog_products,"2018-10-18 12:37:19",save,"{""general"":""135""}",success,Rachel,29,catalog_product_save,,127.0.0.1
+10026,2130706433,219,catalog_products,"2018-10-18 12:38:32",save,"{""general"":""131, 16, 23""}",success,Rachel,29,catalog_product_save,,127.0.0.1
+10027,2130706433,219,catalog_products,"2018-10-18 12:38:51",save,"{""general"":""130""}",success,Rachel,29,catalog_product_save,,127.0.0.1
+10028,2130706433,219,catalog_categories,"2018-10-18 12:40:44",view,"{""general"":""3""}",success,Rachel,29,catalog_category_edit,,127.0.0.1
+10029,2130706433,219,catalog_categories,"2018-10-18 12:40:52",view,"{""general"":""4""}",success,Rachel,29,catalog_category_edit,,127.0.0.1
+10030,2130706433,219,cms_blocks,"2018-10-18 12:41:06",view,"{""general"":""2""}",success,Rachel,29,cms_block_edit,,127.0.0.1
+10031,2130706433,219,cms_blocks,"2018-10-18 12:41:13",view,"{""general"":""3""}",success,Rachel,29,cms_block_edit,,127.0.0.1
+10032,2130706433,219,cms_blocks,"2018-10-18 12:41:17",view,"{""general"":""4""}",success,Rachel,29,cms_block_edit,,127.0.0.1
+10033,2130706433,219,cms_blocks,"2018-10-18 12:41:21",view,"{""general"":""5""}",success,Rachel,29,cms_block_edit,,127.0.0.1
+10034,2130706433,219,catalog_categories,"2018-10-18 12:42:27",view,"{""general"":""5""}",success,Rachel,29,catalog_category_edit,,127.0.0.1
+10035,2130706433,219,cms_blocks,"2018-10-18 12:43:10",save,"{""general"":""2""}",success,Rachel,29,cms_block_save,,127.0.0.1
+10036,2130706433,219,cms_blocks,"2018-10-18 12:44:56",save,"{""general"":""3""}",success,Rachel,29,cms_block_save,,127.0.0.1
+10037,2130706433,219,cms_blocks,"2018-10-18 12:45:41",save,"{""general"":""4""}",success,Rachel,29,cms_block_save,,127.0.0.1
+10038,2130706433,219,cms_blocks,"2018-10-18 12:46:31",save,"{""general"":""5""}",success,Rachel,29,cms_block_save,,127.0.0.1
+10039,2130706433,219,cms_blocks,"2018-10-18 12:46:40",view,"{""general"":""5""}",success,Rachel,29,cms_block_edit,,127.0.0.1
+10040,2130706433,219,cms_blocks,"2018-10-18 12:47:11",view,"{""general"":""1""}",success,Rachel,29,cms_block_edit,,127.0.0.1
+10041,2130706433,219,catalog_products,"2018-10-18 12:49:42",view,"{""general"":""39""}",success,Rachel,29,catalog_product_edit,,127.0.0.1
+10042,2130706433,219,catalog_products,"2018-10-18 12:49:46",view,"{""general"":""38""}",success,Rachel,29,catalog_product_edit,,127.0.0.1
+10043,2130706433,219,catalog_products,"2018-10-18 12:50:02",save,"{""general"":""39, 35, 36, 37, 49, 34""}",success,Rachel,29,catalog_product_save,,127.0.0.1
+10044,2130706433,219,catalog_products,"2018-10-18 12:50:33",save,"{""general"":""38""}",success,Rachel,29,catalog_product_save,,127.0.0.1
+10045,2130706433,219,catalog_products,"2018-10-18 12:52:15",view,"{""general"":""81""}",success,Rachel,29,catalog_product_edit,,127.0.0.1
+10046,2130706433,219,catalog_products,"2018-10-18 12:52:16",view,"{""general"":""82""}",success,Rachel,29,catalog_product_edit,,127.0.0.1
+10047,2130706433,219,catalog_products,"2018-10-18 12:52:17",view,"{""general"":""83""}",success,Rachel,29,catalog_product_edit,,127.0.0.1
+10048,2130706433,219,catalog_products,"2018-10-18 12:52:18",view,"{""general"":""84""}",success,Rachel,29,catalog_product_edit,,127.0.0.1
+10049,2130706433,219,catalog_products,"2018-10-18 12:52:20",view,"{""general"":""85""}",success,Rachel,29,catalog_product_edit,,127.0.0.1
+10050,2130706433,219,catalog_products,"2018-10-18 12:52:23",view,"{""general"":""86""}",success,Rachel,29,catalog_product_edit,,127.0.0.1
+10051,2130706433,219,catalog_products,"2018-10-18 12:52:32",view,"{""general"":""80""}",success,Rachel,29,catalog_product_edit,,127.0.0.1
+10052,2130706433,219,catalog_products,"2018-10-18 12:52:33",view,"{""general"":""79""}",success,Rachel,29,catalog_product_edit,,127.0.0.1
+10053,2130706433,0,admin_login,"2018-10-19 00:59:24",login,"{""general"":null}",success,Rachel,29,adminhtml_index_index,,127.0.0.1
+10054,2130706433,0,admin_login,"2018-10-19 01:05:31",login,"{""general"":null}",success,teddy,27,adminhtml_index_index,,127.0.0.1
+10055,2130706433,45,adminhtml_system_config,"2018-10-19 01:10:21",view,"{""general"":""mpmarketplace""}",success,teddy,27,adminhtml_system_config_edit,,127.0.0.1
+10056,2130706433,219,catalog_products,"2018-10-19 01:19:17",view,"{""general"":""40""}",success,Rachel,29,catalog_product_edit,,127.0.0.1
+10057,2130706433,219,catalog_products,"2018-10-19 01:19:17",view,"{""general"":""39""}",success,Rachel,29,catalog_product_edit,,127.0.0.1
+10058,2130706433,219,catalog_products,"2018-10-19 01:19:18",view,"{""general"":""38""}",success,Rachel,29,catalog_product_edit,,127.0.0.1
+10059,2130706433,219,catalog_products,"2018-10-19 01:19:19",view,"{""general"":""37""}",success,Rachel,29,catalog_product_edit,,127.0.0.1
+10060,2130706433,219,catalog_products,"2018-10-19 01:19:20",view,"{""general"":""36""}",success,Rachel,29,catalog_product_edit,,127.0.0.1
+10061,2130706433,219,catalog_products,"2018-10-19 01:19:22",view,"{""general"":""35""}",success,Rachel,29,catalog_product_edit,,127.0.0.1
+10062,2130706433,219,catalog_products,"2018-10-19 01:19:25",view,"{""general"":""34""}",success,Rachel,29,catalog_product_edit,,127.0.0.1
+10063,2130706433,219,catalog_products,"2018-10-19 01:21:32",save,"{""general"":""40""}",success,Rachel,29,catalog_product_save,,127.0.0.1
+10064,2130706433,219,catalog_products,"2018-10-19 01:21:56",view,"{""general"":""39""}",success,Rachel,29,catalog_product_edit,,127.0.0.1
+10065,2130706433,219,catalog_products,"2018-10-19 01:21:57",view,"{""general"":""39""}",success,Rachel,29,catalog_product_edit,,127.0.0.1
+10066,2130706433,219,catalog_products,"2018-10-19 01:22:05",view,"{""general"":""39""}",success,Rachel,29,catalog_product_edit,,127.0.0.1
+10067,2130706433,219,catalog_products,"2018-10-19 01:22:06",view,"{""general"":""39""}",success,Rachel,29,catalog_product_edit,,127.0.0.1
+10068,2130706433,219,catalog_products,"2018-10-19 01:22:07",view,"{""general"":""39""}",success,Rachel,29,catalog_product_edit,,127.0.0.1
+10069,2130706433,219,catalog_products,"2018-10-19 01:22:08",view,"{""general"":""39""}",success,Rachel,29,catalog_product_edit,,127.0.0.1
+10070,2130706433,219,catalog_products,"2018-10-19 01:23:42",view,"{""general"":""41""}",success,Rachel,29,catalog_product_edit,,127.0.0.1
+10071,2130706433,219,catalog_products,"2018-10-19 01:23:46",view,"{""general"":""42""}",success,Rachel,29,catalog_product_edit,,127.0.0.1
+10072,2130706433,219,catalog_products,"2018-10-19 01:23:47",view,"{""general"":""43""}",success,Rachel,29,catalog_product_edit,,127.0.0.1
+10073,2130706433,219,catalog_products,"2018-10-19 01:23:48",view,"{""general"":""44""}",success,Rachel,29,catalog_product_edit,,127.0.0.1
+10074,2130706433,219,catalog_products,"2018-10-19 01:23:49",view,"{""general"":""45""}",success,Rachel,29,catalog_product_edit,,127.0.0.1
+10075,2130706433,219,catalog_products,"2018-10-19 01:23:50",view,"{""general"":""46""}",success,Rachel,29,catalog_product_edit,,127.0.0.1
+10076,2130706433,219,catalog_products,"2018-10-19 01:23:52",view,"{""general"":""47""}",success,Rachel,29,catalog_product_edit,,127.0.0.1
+10077,2130706433,219,catalog_products,"2018-10-19 01:23:54",view,"{""general"":""48""}",success,Rachel,29,catalog_product_edit,,127.0.0.1
+10078,2130706433,219,catalog_products,"2018-10-19 01:23:55",view,"{""general"":""49""}",success,Rachel,29,catalog_product_edit,,127.0.0.1
+10079,2130706433,219,catalog_products,"2018-10-19 01:23:57",view,"{""general"":""50""}",success,Rachel,29,catalog_product_edit,,127.0.0.1
+10080,2130706433,219,catalog_products,"2018-10-19 01:23:58",view,"{""general"":""51""}",success,Rachel,29,catalog_product_edit,,127.0.0.1
+10081,2130706433,219,catalog_products,"2018-10-19 01:24:00",view,"{""general"":""52""}",success,Rachel,29,catalog_product_edit,,127.0.0.1
+10082,2130706433,45,adminhtml_system_config,"2018-10-19 01:24:05",view,"{""general"":""mpmarketplace""}",success,teddy,27,adminhtml_system_config_edit,,127.0.0.1
+10083,2130706433,219,catalog_products,"2018-10-19 01:25:35",view,"{""general"":""41""}",success,Rachel,29,catalog_product_edit,,127.0.0.1
+10084,2130706433,219,catalog_products,"2018-10-19 01:25:36",view,"{""general"":""41""}",success,Rachel,29,catalog_product_edit,,127.0.0.1
+10085,2130706433,45,adminhtml_system_config,"2018-10-19 01:25:45",view,"{""general"":""mpmarketplace""}",success,teddy,27,adminhtml_system_config_edit,,127.0.0.1
+10086,2130706433,219,catalog_products,"2018-10-19 01:26:30",save,"{""general"":""41, 39, 42, 129, 49, 34""}",success,Rachel,29,catalog_product_save,,127.0.0.1
+10087,2130706433,0,admin_login,"2018-10-19 01:26:47",login,"{""general"":null}",success,helis,5,adminhtml_index_index,,127.0.0.1
+10088,2130706433,219,catalog_products,"2018-10-19 01:26:54",save,"{""general"":""42, 39, 41, 129, 34""}",success,Rachel,29,catalog_product_save,,127.0.0.1
+10089,2130706433,219,catalog_products,"2018-10-19 01:27:11",save,"{""general"":""43""}",success,Rachel,29,catalog_product_save,,127.0.0.1
+10090,2130706433,219,catalog_products,"2018-10-19 01:28:44",save,"{""general"":""44""}",success,Rachel,29,catalog_product_save,,127.0.0.1
+10091,2130706433,219,catalog_products,"2018-10-19 01:30:21",save,"{""general"":""45""}",success,Rachel,29,catalog_product_save,,127.0.0.1
+10092,2130706433,219,catalog_products,"2018-10-19 01:30:26",view,"{""general"":""41""}",success,Rachel,29,catalog_product_edit,,127.0.0.1
+10093,2130706433,219,catalog_products,"2018-10-19 01:30:29",view,"{""general"":""44""}",success,Rachel,29,catalog_product_edit,,127.0.0.1
+10094,2130706433,219,catalog_products,"2018-10-19 01:30:46",view,"{""general"":""41""}",success,Rachel,29,catalog_product_edit,,127.0.0.1
+10095,2130706433,219,catalog_products,"2018-10-19 01:30:47",view,"{""general"":""41""}",success,Rachel,29,catalog_product_edit,,127.0.0.1
+10096,2130706433,219,catalog_products,"2018-10-19 01:31:20",save,"{""general"":""41, 39, 42, 129, 49, 34""}",success,Rachel,29,catalog_product_save,,127.0.0.1
+10097,2130706433,219,catalog_products,"2018-10-19 01:31:30",save,"{""general"":""44""}",success,Rachel,29,catalog_product_save,,127.0.0.1
+10098,2130706433,219,catalog_products,"2018-10-19 01:36:15",save,"{""general"":""45""}",success,Rachel,29,catalog_product_save,,127.0.0.1
+10099,2130706433,219,catalog_products,"2018-10-19 01:37:08",view,"{""general"":""41""}",success,Rachel,29,catalog_product_edit,,127.0.0.1
+10100,2130706433,219,catalog_products,"2018-10-19 01:37:08",view,"{""general"":""41""}",success,Rachel,29,catalog_product_edit,,127.0.0.1
+10101,2130706433,45,review,"2018-10-19 01:37:10",view,"{""general"":""237""}",success,teddy,27,review_product_edit,,127.0.0.1
+10102,2130706433,219,catalog_products,"2018-10-19 01:38:06",save,"{""general"":""46""}",success,Rachel,29,catalog_product_save,,127.0.0.1
+10103,2130706433,219,catalog_products,"2018-10-19 01:38:22",save,"{""general"":""47, 48, 49""}",success,Rachel,29,catalog_product_save,,127.0.0.1
+10104,2130706433,45,review,"2018-10-19 01:39:10",massUpdate,"{""general"":""237, 236, 235, 234, 233, 15, 204, 104, 71, 105, 106, 107, 16, 108, 109, 110, 111, 112, 20, 45, 171, 30, 58, 80, 215, 46, 47, 113, 114, 115, 172, 31, 116, 55, 17, 21, 117, 118, 56, 119, 120, 232, 121, 122, 123, 124, 125, 126, 127, 128, 129, 130, 131, 132, 133, 134, 135, 136, 137, 138, 139, 14, 13, 12, 11, 9, 7, 6, 72, 5, 57, 76, 211, 216, 2, 1, 77, 217, 218, 32, 140, 219, 33, 48, 81, 141, 34, 142, 35, 36, 37, 220, 38, 39, 40, 41, 42, 22, 43, 44, 82, 143, 173, 212, 144, 83, 84, 85, 86, 182, 145, 183, 23, 87, 146, 78, 49, 88, 89, 90, 147, 91, 92, 93, 94, 95, 96, 148, 97, 59, 149, 98, 150, 79, 24, 73, 99, 193, 194, 174, 221, 226, 74, 151, 175, 195, 184, 152, 222, 60, 100, 223, 224, 185, 101, 153, 176, 196, 177, 154, 61, 155, 75, 178, 179, 197, 62, 63, 50, 25, 64, 186, 26, 180, 187, 213, 51, 156, 181, 52, 53, 157, 188, 102, 27, 158, 159, 214, 198, 65, 199, 205, 28, 66, 189, 103, 190, 29, 166, 167""}",success,teddy,27,review_product_massUpdateStatus,,127.0.0.1
+10105,2130706433,219,catalog_products,"2018-10-19 01:39:32",save,"{""general"":""52""}",success,Rachel,29,catalog_product_save,,127.0.0.1
+10106,2130706433,45,review,"2018-10-19 01:39:34",massUpdate,"{""general"":""168, 160, 227, 228, 67, 206, 191, 18, 192, 19, 207, 208, 169, 209, 161, 162, 68, 69, 163, 170, 210, 70, 164, 200, 54, 165, 201, 202, 229, 230, 231, 203, 225""}",success,teddy,27,review_product_massUpdateStatus,,127.0.0.1
+10107,2130706433,219,catalog_products,"2018-10-19 01:40:54",save,"{""general"":""48, 49, 47""}",success,Rachel,29,catalog_product_save,,127.0.0.1
+10108,2130706433,45,sales_orders,"2018-10-19 01:41:05",view,"{""general"":""601"",""additional"":{""Magento\\Sales\\Model\\Order\\Interceptor"":{""601"":{""increment_id"":""18101600001""}}}}",success,helis,5,sales_order_view,,127.0.0.1
+10109,2130706433,219,catalog_products,"2018-10-19 01:41:10",save,"{""general"":""49, 48""}",success,Rachel,29,catalog_product_save,,127.0.0.1
+10110,2130706433,219,catalog_products,"2018-10-19 01:41:38",save,"{""general"":""50, 49""}",success,Rachel,29,catalog_product_save,,127.0.0.1
+10111,2130706433,219,catalog_products,"2018-10-19 01:42:33",view,"{""general"":""51""}",success,Rachel,29,catalog_product_edit,,127.0.0.1
+10112,2130706433,45,adminhtml_system_config,"2018-10-19 01:42:37",view,"{""general"":""socialshare""}",success,teddy,27,adminhtml_system_config_index,,127.0.0.1
+10113,2130706433,45,adminhtml_system_config,"2018-10-19 01:42:41",view,"{""general"":""idevaffiliate""}",success,teddy,27,adminhtml_system_config_edit,,127.0.0.1
+10114,2130706433,219,catalog_products,"2018-10-19 01:45:40",view,"{""general"":""1""}",success,Rachel,29,catalog_product_edit,,127.0.0.1
+10115,2130706433,219,catalog_products,"2018-10-19 01:45:41",view,"{""general"":""2""}",success,Rachel,29,catalog_product_edit,,127.0.0.1
+10116,2130706433,219,catalog_products,"2018-10-19 01:45:52",view,"{""general"":""3""}",success,Rachel,29,catalog_product_edit,,127.0.0.1
+10117,2130706433,219,catalog_products,"2018-10-19 01:45:54",view,"{""general"":""4""}",success,Rachel,29,catalog_product_edit,,127.0.0.1
+10118,2130706433,219,catalog_products,"2018-10-19 01:45:54",view,"{""general"":""5""}",success,Rachel,29,catalog_product_edit,,127.0.0.1
+10119,2130706433,219,catalog_products,"2018-10-19 01:45:55",view,"{""general"":""6""}",success,Rachel,29,catalog_product_edit,,127.0.0.1
+10120,2130706433,219,catalog_products,"2018-10-19 01:45:58",view,"{""general"":""7""}",success,Rachel,29,catalog_product_edit,,127.0.0.1
+10121,2130706433,219,catalog_products,"2018-10-19 01:45:59",view,"{""general"":""8""}",success,Rachel,29,catalog_product_edit,,127.0.0.1
+10122,2130706433,219,catalog_products,"2018-10-19 01:46:01",view,"{""general"":""9""}",success,Rachel,29,catalog_product_edit,,127.0.0.1
+10123,2130706433,219,catalog_products,"2018-10-19 01:46:02",view,"{""general"":""10""}",success,Rachel,29,catalog_product_edit,,127.0.0.1
+10124,2130706433,219,catalog_products,"2018-10-19 01:46:03",view,"{""general"":""11""}",success,Rachel,29,catalog_product_edit,,127.0.0.1
+10125,2130706433,219,catalog_products,"2018-10-19 01:46:05",view,"{""general"":""12""}",success,Rachel,29,catalog_product_edit,,127.0.0.1
+10126,2130706433,219,catalog_products,"2018-10-19 01:46:07",view,"{""general"":""13""}",success,Rachel,29,catalog_product_edit,,127.0.0.1
+10127,2130706433,219,catalog_products,"2018-10-19 01:46:09",view,"{""general"":""14""}",success,Rachel,29,catalog_product_edit,,127.0.0.1
+10128,2130706433,219,catalog_products,"2018-10-19 01:46:10",view,"{""general"":""15""}",success,Rachel,29,catalog_product_edit,,127.0.0.1
+10129,2130706433,219,catalog_products,"2018-10-19 01:46:12",view,"{""general"":""16""}",success,Rachel,29,catalog_product_edit,,127.0.0.1
+10130,2130706433,219,catalog_products,"2018-10-19 01:46:12",view,"{""general"":""17""}",success,Rachel,29,catalog_product_edit,,127.0.0.1
+10131,2130706433,219,catalog_products,"2018-10-19 01:46:13",view,"{""general"":""18""}",success,Rachel,29,catalog_product_edit,,127.0.0.1
+10132,2130706433,219,catalog_products,"2018-10-19 01:46:15",view,"{""general"":""19""}",success,Rachel,29,catalog_product_edit,,127.0.0.1
+10133,2130706433,219,catalog_products,"2018-10-19 01:46:16",view,"{""general"":""20""}",success,Rachel,29,catalog_product_edit,,127.0.0.1
+10134,2130706433,219,catalog_products,"2018-10-19 01:46:37",save,"{""general"":""3, 1, 2, 41, 42, 129""}",success,Rachel,29,catalog_product_save,,127.0.0.1
+10135,2130706433,219,catalog_products,"2018-10-19 01:46:45",save,"{""general"":""4""}",success,Rachel,29,catalog_product_save,,127.0.0.1
+10136,2130706433,219,catalog_products,"2018-10-19 01:46:53",save,"{""general"":""5, 32""}",success,Rachel,29,catalog_product_save,,127.0.0.1
+10137,2130706433,219,catalog_products,"2018-10-19 01:47:15",save,"{""general"":""6""}",success,Rachel,29,catalog_product_save,,127.0.0.1
+10138,2130706433,219,catalog_products,"2018-10-19 01:47:31",save,"{""general"":""7""}",success,Rachel,29,catalog_product_save,,127.0.0.1
+10139,2130706433,219,catalog_products,"2018-10-19 01:48:52",save,"{""general"":""8, 11, 12, 13, 37, 47""}",success,Rachel,29,catalog_product_save,,127.0.0.1
+10140,2130706433,219,catalog_products,"2018-10-19 01:49:02",save,"{""general"":""9""}",success,Rachel,29,catalog_product_save,,127.0.0.1
+10141,2130706433,219,catalog_products,"2018-10-19 01:49:17",save,"{""general"":""10""}",success,Rachel,29,catalog_product_save,,127.0.0.1
+10142,2130706433,219,catalog_products,"2018-10-19 01:49:25",save,"{""general"":""11, 8, 12, 16, 39""}",success,Rachel,29,catalog_product_save,,127.0.0.1
+10143,2130706433,219,catalog_products,"2018-10-19 01:49:41",save,"{""general"":""12, 8, 11, 13""}",success,Rachel,29,catalog_product_save,,127.0.0.1
+10144,2130706433,219,catalog_products,"2018-10-19 01:52:29",save,"{""general"":""13, 8, 11, 12, 41, 42, 129""}",success,Rachel,29,catalog_product_save,,127.0.0.1
+10145,2130706433,45,adminhtml_system_config,"2018-10-19 01:52:50",view,"{""general"":""socialshare""}",success,teddy,27,adminhtml_system_config_index,,127.0.0.1
+10146,2130706433,45,adminhtml_system_config,"2018-10-19 01:52:55",view,"{""general"":""idevaffiliate""}",success,teddy,27,adminhtml_system_config_edit,,127.0.0.1
+10147,2130706433,45,adminhtml_system_config,"2018-10-19 01:53:46",save,"{""general"":""idevaffiliate""}",success,teddy,27,adminhtml_system_config_save,,127.0.0.1
+10148,2130706433,219,catalog_products,"2018-10-19 01:56:14",save,"{""general"":""14, 5, 15""}",success,Rachel,29,catalog_product_save,,127.0.0.1
+10149,2130706433,219,catalog_products,"2018-10-19 01:56:21",save,"{""general"":""15, 5, 14""}",success,Rachel,29,catalog_product_save,,127.0.0.1
+10150,2130706433,219,catalog_products,"2018-10-19 01:57:38",save,"{""general"":""16, 2, 23""}",success,Rachel,29,catalog_product_save,,127.0.0.1
+10151,2130706433,219,catalog_products,"2018-10-19 01:58:17",save,"{""general"":""17""}",success,Rachel,29,catalog_product_save,,127.0.0.1
+10152,2130706433,219,catalog_products,"2018-10-19 01:58:27",save,"{""general"":""19""}",success,Rachel,29,catalog_product_save,,127.0.0.1
+10153,2130706433,219,catalog_products,"2018-10-19 01:58:29",save,"{""general"":""18""}",success,Rachel,29,catalog_product_save,,127.0.0.1
+10154,2130706433,219,catalog_products,"2018-10-19 01:59:33",save,"{""general"":""20""}",success,Rachel,29,catalog_product_save,,127.0.0.1
+10155,2130706433,219,catalog_products,"2018-10-19 01:59:37",save,"{""general"":""1, 2, 3""}",success,Rachel,29,catalog_product_save,,127.0.0.1
+10156,2130706433,219,catalog_products,"2018-10-19 01:59:45",save,"{""general"":""2, 1, 3, 36, 47""}",success,Rachel,29,catalog_product_save,,127.0.0.1
+10157,2130706433,219,catalog_products,"2018-10-19 02:06:38",view,"{""general"":""22""}",success,Rachel,29,catalog_product_edit,,127.0.0.1
+10158,2130706433,219,catalog_products,"2018-10-19 02:06:46",view,"{""general"":""21""}",success,Rachel,29,catalog_product_edit,,127.0.0.1
+10159,2130706433,219,catalog_products,"2018-10-19 02:07:10",view,"{""general"":""23""}",success,Rachel,29,catalog_product_edit,,127.0.0.1
+10160,2130706433,219,catalog_products,"2018-10-19 02:07:11",view,"{""general"":""24""}",success,Rachel,29,catalog_product_edit,,127.0.0.1
+10161,2130706433,219,catalog_products,"2018-10-19 02:07:12",view,"{""general"":""25""}",success,Rachel,29,catalog_product_edit,,127.0.0.1
+10162,2130706433,219,catalog_products,"2018-10-19 02:07:12",view,"{""general"":""26""}",success,Rachel,29,catalog_product_edit,,127.0.0.1
+10163,2130706433,219,catalog_products,"2018-10-19 02:07:15",view,"{""general"":""27""}",success,Rachel,29,catalog_product_edit,,127.0.0.1
+10164,2130706433,219,catalog_products,"2018-10-19 02:07:16",view,"{""general"":""28""}",success,Rachel,29,catalog_product_edit,,127.0.0.1
+10165,2130706433,219,catalog_products,"2018-10-19 02:07:17",view,"{""general"":""29""}",success,Rachel,29,catalog_product_edit,,127.0.0.1
+10166,2130706433,219,catalog_products,"2018-10-19 02:07:19",view,"{""general"":""30""}",success,Rachel,29,catalog_product_edit,,127.0.0.1
+10167,2130706433,219,catalog_products,"2018-10-19 02:07:20",view,"{""general"":""31""}",success,Rachel,29,catalog_product_edit,,127.0.0.1
+10168,2130706433,219,catalog_products,"2018-10-19 02:07:21",view,"{""general"":""32""}",success,Rachel,29,catalog_product_edit,,127.0.0.1
+10169,2130706433,219,catalog_products,"2018-10-19 02:07:24",view,"{""general"":""33""}",success,Rachel,29,catalog_product_edit,,127.0.0.1
+10170,2130706433,219,catalog_products,"2018-10-19 02:07:25",view,"{""general"":""34""}",success,Rachel,29,catalog_product_edit,,127.0.0.1
+10171,2130706433,219,catalog_products,"2018-10-19 02:07:26",view,"{""general"":""35""}",success,Rachel,29,catalog_product_edit,,127.0.0.1
+10172,2130706433,219,catalog_products,"2018-10-19 02:07:28",view,"{""general"":""36""}",success,Rachel,29,catalog_product_edit,,127.0.0.1
+10173,2130706433,219,catalog_products,"2018-10-19 02:07:29",view,"{""general"":""37""}",success,Rachel,29,catalog_product_edit,,127.0.0.1
+10174,2130706433,219,catalog_products,"2018-10-19 02:07:29",view,"{""general"":""38""}",success,Rachel,29,catalog_product_edit,,127.0.0.1
+10175,2130706433,219,catalog_products,"2018-10-19 02:07:31",view,"{""general"":""39""}",success,Rachel,29,catalog_product_edit,,127.0.0.1
+10176,2130706433,219,catalog_products,"2018-10-19 02:07:32",view,"{""general"":""40""}",success,Rachel,29,catalog_product_edit,,127.0.0.1
+10177,2130706433,219,catalog_products,"2018-10-19 02:08:11",save,"{""general"":""21""}",success,Rachel,29,catalog_product_save,,127.0.0.1
+10178,2130706433,219,catalog_products,"2018-10-19 02:08:32",save,"{""general"":""22, 8, 11, 16, 35, 37, 40""}",success,Rachel,29,catalog_product_save,,127.0.0.1
+10179,2130706433,219,catalog_products,"2018-10-19 02:08:42",save,"{""general"":""23, 16""}",success,Rachel,29,catalog_product_save,,127.0.0.1
+10180,2130706433,219,catalog_products,"2018-10-19 02:08:52",save,"{""general"":""25, 24, 27, 30, 47, 85, 44""}",success,Rachel,29,catalog_product_save,,127.0.0.1
+10181,2130706433,219,catalog_products,"2018-10-19 02:09:01",save,"{""general"":""24, 25, 29, 31, 41, 129, 85""}",success,Rachel,29,catalog_product_save,,127.0.0.1
+10182,2130706433,219,catalog_products,"2018-10-19 02:09:11",save,"{""general"":""26""}",success,Rachel,29,catalog_product_save,,127.0.0.1
+10183,2130706433,219,catalog_products,"2018-10-19 02:09:20",save,"{""general"":""27""}",success,Rachel,29,catalog_product_save,,127.0.0.1
+10184,2130706433,219,catalog_products,"2018-10-19 02:09:32",save,"{""general"":""28""}",success,Rachel,29,catalog_product_save,,127.0.0.1
+10185,2130706433,219,catalog_products,"2018-10-19 02:12:07",save,"{""general"":""29""}",success,Rachel,29,catalog_product_save,,127.0.0.1
+10186,2130706433,219,catalog_products,"2018-10-19 02:13:45",save,"{""general"":""30, 35, 37, 129""}",success,Rachel,29,catalog_product_save,,127.0.0.1
+10187,2130706433,219,catalog_products,"2018-10-19 02:13:53",save,"{""general"":""31, 30, 33""}",success,Rachel,29,catalog_product_save,,127.0.0.1
+10188,2130706433,219,catalog_products,"2018-10-19 02:14:46",save,"{""general"":""32, 5""}",success,Rachel,29,catalog_product_save,,127.0.0.1
+10189,2130706433,219,catalog_products,"2018-10-19 02:14:52",save,"{""general"":""33, 31, 35, 37""}",success,Rachel,29,catalog_product_save,,127.0.0.1
+10190,2130706433,219,catalog_products,"2018-10-19 02:14:58",save,"{""general"":""34, 35, 36, 39""}",success,Rachel,29,catalog_product_save,,127.0.0.1
+10191,2130706433,219,catalog_products,"2018-10-19 02:15:13",save,"{""general"":""35, 36, 34""}",success,Rachel,29,catalog_product_save,,127.0.0.1
+10192,2130706433,219,catalog_products,"2018-10-19 02:15:19",save,"{""general"":""36, 35, 37, 34""}",success,Rachel,29,catalog_product_save,,127.0.0.1
+10193,2130706433,219,catalog_products,"2018-10-19 02:15:26",save,"{""general"":""37""}",success,Rachel,29,catalog_product_save,,127.0.0.1
+10194,2130706433,219,catalog_products,"2018-10-19 02:15:31",save,"{""general"":""38""}",success,Rachel,29,catalog_product_save,,127.0.0.1
+10195,2130706433,219,catalog_products,"2018-10-19 02:15:41",save,"{""general"":""39, 35, 36, 37, 49, 34""}",success,Rachel,29,catalog_product_save,,127.0.0.1
+10196,2130706433,219,catalog_products,"2018-10-19 02:15:46",save,"{""general"":""40""}",success,Rachel,29,catalog_product_save,,127.0.0.1
+10197,2130706433,219,catalog_products,"2018-10-19 02:17:48",view,"{""general"":""38""}",success,Rachel,29,catalog_product_edit,,127.0.0.1
+10198,2130706433,219,catalog_products,"2018-10-19 02:17:54",view,"{""general"":""24""}",success,Rachel,29,catalog_product_edit,,127.0.0.1
+10199,2130706433,219,catalog_products,"2018-10-19 02:18:27",view,"{""general"":""41""}",success,Rachel,29,catalog_product_edit,,127.0.0.1
+10200,2130706433,219,catalog_products,"2018-10-19 02:18:28",view,"{""general"":""42""}",success,Rachel,29,catalog_product_edit,,127.0.0.1
+10201,2130706433,219,catalog_products,"2018-10-19 02:18:30",view,"{""general"":""43""}",success,Rachel,29,catalog_product_edit,,127.0.0.1
+10202,2130706433,219,catalog_products,"2018-10-19 02:18:31",view,"{""general"":""44""}",success,Rachel,29,catalog_product_edit,,127.0.0.1
+10203,2130706433,219,catalog_products,"2018-10-19 02:18:32",view,"{""general"":""45""}",success,Rachel,29,catalog_product_edit,,127.0.0.1
+10204,2130706433,219,catalog_products,"2018-10-19 02:18:35",view,"{""general"":""46""}",success,Rachel,29,catalog_product_edit,,127.0.0.1
+10205,2130706433,219,catalog_products,"2018-10-19 02:18:35",view,"{""general"":""47""}",success,Rachel,29,catalog_product_edit,,127.0.0.1
+10206,2130706433,219,catalog_products,"2018-10-19 02:18:37",view,"{""general"":""48""}",success,Rachel,29,catalog_product_edit,,127.0.0.1
+10207,2130706433,219,catalog_products,"2018-10-19 02:18:38",view,"{""general"":""49""}",success,Rachel,29,catalog_product_edit,,127.0.0.1
+10208,2130706433,219,catalog_products,"2018-10-19 02:18:39",view,"{""general"":""50""}",success,Rachel,29,catalog_product_edit,,127.0.0.1
+10209,2130706433,219,catalog_products,"2018-10-19 02:18:41",view,"{""general"":""51""}",success,Rachel,29,catalog_product_edit,,127.0.0.1
+10210,2130706433,219,catalog_products,"2018-10-19 02:18:42",view,"{""general"":""52""}",success,Rachel,29,catalog_product_edit,,127.0.0.1
+10211,2130706433,219,catalog_products,"2018-10-19 02:19:13",save,"{""general"":""41, 39, 42, 129, 49, 34""}",success,Rachel,29,catalog_product_save,,127.0.0.1
+10212,2130706433,219,catalog_products,"2018-10-19 02:24:16",save,"{""general"":""42, 39, 41, 129, 34""}",success,Rachel,29,catalog_product_save,,127.0.0.1
+10213,2130706433,219,catalog_products,"2018-10-19 02:24:21",save,"{""general"":""43""}",success,Rachel,29,catalog_product_save,,127.0.0.1
+10214,2130706433,219,catalog_products,"2018-10-19 02:24:31",save,"{""general"":""44""}",success,Rachel,29,catalog_product_save,,127.0.0.1
+10215,2130706433,219,catalog_products,"2018-10-19 02:24:38",save,"{""general"":""45""}",success,Rachel,29,catalog_product_save,,127.0.0.1
+10216,2130706433,219,catalog_products,"2018-10-19 02:24:44",save,"{""general"":""46""}",success,Rachel,29,catalog_product_save,,127.0.0.1
+10217,2130706433,219,catalog_products,"2018-10-19 02:24:52",save,"{""general"":""47, 48, 49""}",success,Rachel,29,catalog_product_save,,127.0.0.1
+10218,2130706433,219,catalog_products,"2018-10-19 02:24:57",save,"{""general"":""48, 49, 47""}",success,Rachel,29,catalog_product_save,,127.0.0.1
+10219,2130706433,219,catalog_products,"2018-10-19 02:25:05",save,"{""general"":""49, 48""}",success,Rachel,29,catalog_product_save,,127.0.0.1
+10220,2130706433,219,catalog_products,"2018-10-19 02:25:11",save,"{""general"":""50, 49""}",success,Rachel,29,catalog_product_save,,127.0.0.1
+10221,2130706433,219,catalog_products,"2018-10-19 02:25:38",save,"{""general"":""51""}",success,Rachel,29,catalog_product_save,,127.0.0.1
+10222,2130706433,219,catalog_products,"2018-10-19 02:25:44",save,"{""general"":""52""}",success,Rachel,29,catalog_product_save,,127.0.0.1
+10223,2130706433,219,catalog_products,"2018-10-19 02:25:58",view,"{""general"":""54""}",success,Rachel,29,catalog_product_edit,,127.0.0.1
+10224,2130706433,219,catalog_products,"2018-10-19 02:25:59",view,"{""general"":""55""}",success,Rachel,29,catalog_product_edit,,127.0.0.1
+10225,2130706433,219,catalog_products,"2018-10-19 02:26:00",view,"{""general"":""53""}",success,Rachel,29,catalog_product_edit,,127.0.0.1
+10226,2130706433,219,catalog_products,"2018-10-19 02:26:00",view,"{""general"":""56""}",success,Rachel,29,catalog_product_edit,,127.0.0.1
+10227,2130706433,219,catalog_products,"2018-10-19 02:26:01",view,"{""general"":""57""}",success,Rachel,29,catalog_product_edit,,127.0.0.1
+10228,2130706433,219,catalog_products,"2018-10-19 02:26:03",view,"{""general"":""58""}",success,Rachel,29,catalog_product_edit,,127.0.0.1
+10229,2130706433,219,catalog_products,"2018-10-19 02:26:03",view,"{""general"":""59""}",success,Rachel,29,catalog_product_edit,,127.0.0.1
+10230,2130706433,219,catalog_products,"2018-10-19 02:26:04",view,"{""general"":""60""}",success,Rachel,29,catalog_product_edit,,127.0.0.1
+10231,2130706433,219,catalog_products,"2018-10-19 02:27:56",save,"{""general"":""55""}",success,Rachel,29,catalog_product_save,,127.0.0.1
+10232,2130706433,219,catalog_products,"2018-10-19 02:28:20",save,"{""general"":""56""}",success,Rachel,29,catalog_product_save,,127.0.0.1
+10233,2130706433,219,catalog_products,"2018-10-19 02:28:41",save,"{""general"":""53""}",success,Rachel,29,catalog_product_save,,127.0.0.1
+10234,2130706433,219,catalog_products,"2018-10-19 02:29:04",save,"{""general"":""57""}",success,Rachel,29,catalog_product_save,,127.0.0.1
+10235,2130706433,219,catalog_products,"2018-10-19 02:29:22",save,"{""general"":""54""}",success,Rachel,29,catalog_product_save,,127.0.0.1
+10236,2130706433,219,catalog_products,"2018-10-19 02:29:43",view,"{""general"":""61""}",success,Rachel,29,catalog_product_edit,,127.0.0.1
+10237,2130706433,219,catalog_products,"2018-10-19 02:29:44",view,"{""general"":""62""}",success,Rachel,29,catalog_product_edit,,127.0.0.1
+10238,2130706433,219,catalog_products,"2018-10-19 02:30:11",save,"{""general"":""62""}",success,Rachel,29,catalog_product_save,,127.0.0.1
+10239,2130706433,219,catalog_products,"2018-10-19 02:30:28",save,"{""general"":""58""}",success,Rachel,29,catalog_product_save,,127.0.0.1
+10240,2130706433,219,catalog_products,"2018-10-19 02:30:44",save,"{""general"":""61""}",success,Rachel,29,catalog_product_save,,127.0.0.1
+10241,2130706433,219,catalog_products,"2018-10-19 02:30:58",save,"{""general"":""60""}",success,Rachel,29,catalog_product_save,,127.0.0.1
+10242,2130706433,219,catalog_products,"2018-10-19 02:31:11",save,"{""general"":""59""}",success,Rachel,29,catalog_product_save,,127.0.0.1
+10243,2130706433,219,catalog_products,"2018-10-19 02:31:47",view,"{""general"":""64""}",success,Rachel,29,catalog_product_edit,,127.0.0.1
+10244,2130706433,219,catalog_products,"2018-10-19 02:31:47",view,"{""general"":""63""}",success,Rachel,29,catalog_product_edit,,127.0.0.1
+10245,2130706433,219,catalog_products,"2018-10-19 02:31:48",view,"{""general"":""65""}",success,Rachel,29,catalog_product_edit,,127.0.0.1
+10246,2130706433,219,catalog_products,"2018-10-19 02:31:49",view,"{""general"":""66""}",success,Rachel,29,catalog_product_edit,,127.0.0.1
+10247,2130706433,219,catalog_products,"2018-10-19 02:31:51",view,"{""general"":""67""}",success,Rachel,29,catalog_product_edit,,127.0.0.1
+10248,2130706433,219,catalog_products,"2018-10-19 02:32:13",save,"{""general"":""65""}",success,Rachel,29,catalog_product_save,,127.0.0.1
+10249,2130706433,219,catalog_products,"2018-10-19 02:32:34",save,"{""general"":""66""}",success,Rachel,29,catalog_product_save,,127.0.0.1
+10250,2130706433,219,catalog_products,"2018-10-19 02:32:52",save,"{""general"":""63""}",success,Rachel,29,catalog_product_save,,127.0.0.1
+10251,2130706433,219,catalog_products,"2018-10-19 02:33:14",save,"{""general"":""67""}",success,Rachel,29,catalog_product_save,,127.0.0.1
+10252,2130706433,219,catalog_products,"2018-10-19 02:33:26",save,"{""general"":""64""}",success,Rachel,29,catalog_product_save,,127.0.0.1
+10253,2130706433,219,catalog_products,"2018-10-19 02:33:42",view,"{""general"":""68""}",success,Rachel,29,catalog_product_edit,,127.0.0.1
+10254,2130706433,219,catalog_products,"2018-10-19 02:33:43",view,"{""general"":""69""}",success,Rachel,29,catalog_product_edit,,127.0.0.1
+10255,2130706433,219,catalog_products,"2018-10-19 02:33:44",view,"{""general"":""70""}",success,Rachel,29,catalog_product_edit,,127.0.0.1
+10256,2130706433,219,catalog_products,"2018-10-19 02:33:44",view,"{""general"":""71""}",success,Rachel,29,catalog_product_edit,,127.0.0.1
+10257,2130706433,219,catalog_products,"2018-10-19 02:33:45",view,"{""general"":""72""}",success,Rachel,29,catalog_product_edit,,127.0.0.1
+10258,2130706433,219,catalog_products,"2018-10-19 02:34:08",save,"{""general"":""72""}",success,Rachel,29,catalog_product_save,,127.0.0.1
+10259,2130706433,219,catalog_products,"2018-10-19 02:34:26",save,"{""general"":""68""}",success,Rachel,29,catalog_product_save,,127.0.0.1
+10260,2130706433,219,catalog_products,"2018-10-19 02:34:55",save,"{""general"":""71""}",success,Rachel,29,catalog_product_save,,127.0.0.1
+10261,2130706433,219,catalog_products,"2018-10-19 02:35:14",save,"{""general"":""70""}",success,Rachel,29,catalog_product_save,,127.0.0.1
+10262,2130706433,219,catalog_products,"2018-10-19 02:35:32",save,"{""general"":""69""}",success,Rachel,29,catalog_product_save,,127.0.0.1
+10263,2130706433,219,catalog_products,"2018-10-19 02:35:51",view,"{""general"":""73""}",success,Rachel,29,catalog_product_edit,,127.0.0.1
+10264,2130706433,219,catalog_products,"2018-10-19 02:35:52",view,"{""general"":""74""}",success,Rachel,29,catalog_product_edit,,127.0.0.1
+10265,2130706433,219,catalog_products,"2018-10-19 02:35:54",view,"{""general"":""75""}",success,Rachel,29,catalog_product_edit,,127.0.0.1
+10266,2130706433,219,catalog_products,"2018-10-19 02:35:55",view,"{""general"":""76""}",success,Rachel,29,catalog_product_edit,,127.0.0.1
+10267,2130706433,219,catalog_products,"2018-10-19 02:35:56",view,"{""general"":""77""}",success,Rachel,29,catalog_product_edit,,127.0.0.1
+10268,2130706433,219,catalog_products,"2018-10-19 02:35:57",view,"{""general"":""78""}",success,Rachel,29,catalog_product_edit,,127.0.0.1
+10269,2130706433,219,catalog_products,"2018-10-19 02:35:59",view,"{""general"":""79""}",success,Rachel,29,catalog_product_edit,,127.0.0.1
+10270,2130706433,219,catalog_products,"2018-10-19 02:36:00",view,"{""general"":""80""}",success,Rachel,29,catalog_product_edit,,127.0.0.1
+10271,2130706433,219,catalog_products,"2018-10-19 02:36:50",save,"{""general"":""74""}",success,Rachel,29,catalog_product_save,,127.0.0.1
+10272,2130706433,219,catalog_products,"2018-10-19 02:36:53",save,"{""general"":""73""}",success,Rachel,29,catalog_product_save,,127.0.0.1
+10273,2130706433,219,catalog_products,"2018-10-19 02:37:04",save,"{""general"":""75""}",success,Rachel,29,catalog_product_save,,127.0.0.1
+10274,2130706433,219,catalog_products,"2018-10-19 02:37:19",save,"{""general"":""76""}",success,Rachel,29,catalog_product_save,,127.0.0.1
+10275,2130706433,219,catalog_products,"2018-10-19 02:37:36",save,"{""general"":""77""}",success,Rachel,29,catalog_product_save,,127.0.0.1
+10276,2130706433,219,catalog_products,"2018-10-19 02:37:45",save,"{""general"":""78""}",success,Rachel,29,catalog_product_save,,127.0.0.1
+10277,2130706433,219,catalog_products,"2018-10-19 02:38:43",save,"{""general"":""79""}",success,Rachel,29,catalog_product_save,,127.0.0.1
+10278,2130706433,219,catalog_products,"2018-10-19 02:38:45",save,"{""general"":""80""}",success,Rachel,29,catalog_product_save,,127.0.0.1
+10279,2130706433,219,catalog_products,"2018-10-19 02:40:32",view,"{""general"":""47""}",success,Rachel,29,catalog_product_edit,,127.0.0.1
+10280,2130706433,219,catalog_products,"2018-10-19 02:40:33",view,"{""general"":""52""}",success,Rachel,29,catalog_product_edit,,127.0.0.1
+10281,2130706433,219,catalog_products,"2018-10-19 02:40:42",view,"{""general"":""51""}",success,Rachel,29,catalog_product_edit,,127.0.0.1
+10282,2130706433,219,catalog_products,"2018-10-19 02:40:53",view,"{""general"":""56""}",success,Rachel,29,catalog_product_edit,,127.0.0.1
+10283,2130706433,219,catalog_products,"2018-10-19 02:41:53",save,"{""general"":""51""}",success,Rachel,29,catalog_product_save,,127.0.0.1
+10284,2130706433,219,catalog_products,"2018-10-19 02:42:45",view,"{""general"":""67""}",success,Rachel,29,catalog_product_edit,,127.0.0.1
+10285,2130706433,219,catalog_products,"2018-10-19 02:42:46",view,"{""general"":""66""}",success,Rachel,29,catalog_product_edit,,127.0.0.1
+10286,2130706433,219,catalog_products,"2018-10-19 02:42:47",view,"{""general"":""65""}",success,Rachel,29,catalog_product_edit,,127.0.0.1
+10287,2130706433,219,catalog_products,"2018-10-19 02:42:49",view,"{""general"":""64""}",success,Rachel,29,catalog_product_edit,,127.0.0.1
+10288,2130706433,219,catalog_products,"2018-10-19 02:42:50",view,"{""general"":""63""}",success,Rachel,29,catalog_product_edit,,127.0.0.1
+10289,2130706433,219,catalog_products,"2018-10-19 02:42:59",view,"{""general"":""72""}",success,Rachel,29,catalog_product_edit,,127.0.0.1
+10290,2130706433,219,catalog_products,"2018-10-19 02:43:00",view,"{""general"":""71""}",success,Rachel,29,catalog_product_edit,,127.0.0.1
+10291,2130706433,219,catalog_products,"2018-10-19 02:43:01",view,"{""general"":""70""}",success,Rachel,29,catalog_product_edit,,127.0.0.1
+10292,2130706433,219,catalog_products,"2018-10-19 02:43:02",view,"{""general"":""69""}",success,Rachel,29,catalog_product_edit,,127.0.0.1
+10293,2130706433,219,catalog_products,"2018-10-19 02:44:33",view,"{""general"":""81""}",success,Rachel,29,catalog_product_edit,,127.0.0.1
+10294,2130706433,219,catalog_products,"2018-10-19 02:44:34",view,"{""general"":""82""}",success,Rachel,29,catalog_product_edit,,127.0.0.1
+10295,2130706433,219,catalog_products,"2018-10-19 02:44:35",view,"{""general"":""83""}",success,Rachel,29,catalog_product_edit,,127.0.0.1
+10296,2130706433,219,catalog_products,"2018-10-19 02:44:36",view,"{""general"":""84""}",success,Rachel,29,catalog_product_edit,,127.0.0.1
+10297,2130706433,219,catalog_products,"2018-10-19 02:44:37",view,"{""general"":""85""}",success,Rachel,29,catalog_product_edit,,127.0.0.1
+10298,2130706433,219,catalog_products,"2018-10-19 02:44:39",view,"{""general"":""86""}",success,Rachel,29,catalog_product_edit,,127.0.0.1
+10299,2130706433,219,catalog_products,"2018-10-19 02:44:40",view,"{""general"":""87""}",success,Rachel,29,catalog_product_edit,,127.0.0.1
+10300,2130706433,219,catalog_products,"2018-10-19 03:01:12",save,"{""general"":""86""}",success,Rachel,29,catalog_product_save,,127.0.0.1
+10301,2130706433,219,catalog_products,"2018-10-19 03:01:26",save,"{""general"":""85""}",success,Rachel,29,catalog_product_save,,127.0.0.1
+10302,2130706433,219,catalog_products,"2018-10-19 03:01:41",save,"{""general"":""84""}",success,Rachel,29,catalog_product_save,,127.0.0.1
+10303,2130706433,219,catalog_products,"2018-10-19 03:01:56",save,"{""general"":""83""}",success,Rachel,29,catalog_product_save,,127.0.0.1
+10304,2130706433,219,catalog_products,"2018-10-19 03:02:15",save,"{""general"":""82""}",success,Rachel,29,catalog_product_save,,127.0.0.1
+10305,2130706433,219,catalog_products,"2018-10-19 03:02:32",save,"{""general"":""81""}",success,Rachel,29,catalog_product_save,,127.0.0.1
+10306,2130706433,219,catalog_products,"2018-10-19 03:03:55",view,"{""general"":""87""}",success,Rachel,29,catalog_product_edit,,127.0.0.1
+10307,2130706433,219,catalog_products,"2018-10-19 03:04:12",save,"{""general"":""87, 2, 139, 37, 35, 47""}",success,Rachel,29,catalog_product_save,,127.0.0.1
+10308,2130706433,219,catalog_products,"2018-10-19 03:04:41",view,"{""general"":""140""}",success,Rachel,29,catalog_product_edit,,127.0.0.1
+10309,2130706433,219,catalog_products,"2018-10-19 03:04:42",view,"{""general"":""139""}",success,Rachel,29,catalog_product_edit,,127.0.0.1
+10310,2130706433,219,catalog_products,"2018-10-19 03:04:43",view,"{""general"":""137""}",success,Rachel,29,catalog_product_edit,,127.0.0.1
+10311,2130706433,219,catalog_products,"2018-10-19 03:04:44",view,"{""general"":""136""}",success,Rachel,29,catalog_product_edit,,127.0.0.1
+10312,2130706433,219,catalog_products,"2018-10-19 03:04:46",view,"{""general"":""135""}",success,Rachel,29,catalog_product_edit,,127.0.0.1
+10313,2130706433,219,catalog_products,"2018-10-19 03:04:48",view,"{""general"":""132""}",success,Rachel,29,catalog_product_edit,,127.0.0.1
+10314,2130706433,219,catalog_products,"2018-10-19 03:04:49",view,"{""general"":""131""}",success,Rachel,29,catalog_product_edit,,127.0.0.1
+10315,2130706433,219,catalog_products,"2018-10-19 03:04:50",view,"{""general"":""130""}",success,Rachel,29,catalog_product_edit,,127.0.0.1
+10316,2130706433,219,catalog_products,"2018-10-19 03:04:52",view,"{""general"":""129""}",success,Rachel,29,catalog_product_edit,,127.0.0.1
+10317,2130706433,219,catalog_products,"2018-10-19 03:04:53",view,"{""general"":""127""}",success,Rachel,29,catalog_product_edit,,127.0.0.1
+10318,2130706433,219,catalog_products,"2018-10-19 03:04:54",view,"{""general"":""126""}",success,Rachel,29,catalog_product_edit,,127.0.0.1
+10319,2130706433,219,catalog_products,"2018-10-19 03:04:55",view,"{""general"":""125""}",success,Rachel,29,catalog_product_edit,,127.0.0.1
+10320,2130706433,219,catalog_products,"2018-10-19 03:06:04",save,"{""general"":""140""}",success,Rachel,29,catalog_product_save,,127.0.0.1
+10321,2130706433,219,catalog_products,"2018-10-19 03:06:12",save,"{""general"":""139, 36, 47""}",success,Rachel,29,catalog_product_save,,127.0.0.1
+10322,2130706433,219,catalog_products,"2018-10-19 03:06:20",save,"{""general"":""137""}",success,Rachel,29,catalog_product_save,,127.0.0.1
+10323,2130706433,219,catalog_products,"2018-10-19 03:06:28",save,"{""general"":""136""}",success,Rachel,29,catalog_product_save,,127.0.0.1
+10324,2130706433,219,catalog_products,"2018-10-19 03:06:36",save,"{""general"":""135""}",success,Rachel,29,catalog_product_save,,127.0.0.1
+10325,2130706433,219,catalog_products,"2018-10-19 03:06:49",save,"{""general"":""132, 34""}",success,Rachel,29,catalog_product_save,,127.0.0.1
+10326,2130706433,219,catalog_products,"2018-10-19 03:06:58",save,"{""general"":""131, 16, 23""}",success,Rachel,29,catalog_product_save,,127.0.0.1
+10327,2130706433,219,catalog_products,"2018-10-19 03:07:08",save,"{""general"":""130""}",success,Rachel,29,catalog_product_save,,127.0.0.1
+10328,2130706433,219,catalog_products,"2018-10-19 03:07:42",save,"{""general"":""129, 39, 41, 42, 34""}",success,Rachel,29,catalog_product_save,,127.0.0.1
+10329,2130706433,219,catalog_products,"2018-10-19 03:12:07",view,"{""general"":""138""}",success,Rachel,29,catalog_product_edit,,127.0.0.1
+10330,2130706433,219,catalog_products,"2018-10-19 03:12:18",save,"{""general"":""138""}",success,Rachel,29,catalog_product_save,,127.0.0.1
+10331,2130706433,219,cms_blocks,"2018-10-19 03:12:43",view,"{""general"":""2""}",success,Rachel,29,cms_block_edit,,127.0.0.1
+10332,2130706433,219,cms_blocks,"2018-10-19 03:12:49",view,"{""general"":""3""}",success,Rachel,29,cms_block_edit,,127.0.0.1
+10333,2130706433,219,cms_blocks,"2018-10-19 03:12:55",view,"{""general"":""4""}",success,Rachel,29,cms_block_edit,,127.0.0.1
+10334,2130706433,219,cms_blocks,"2018-10-19 03:13:00",view,"{""general"":""5""}",success,Rachel,29,cms_block_edit,,127.0.0.1
+10335,2130706433,219,cms_blocks,"2018-10-19 03:13:12",view,"{""general"":""6""}",success,Rachel,29,cms_block_edit,,127.0.0.1
+10336,2130706433,219,cms_blocks,"2018-10-19 03:14:21",save,"{""general"":""2""}",success,Rachel,29,cms_block_save,,127.0.0.1
+10337,2130706433,219,cms_blocks,"2018-10-19 03:15:43",save,"{""general"":""3""}",success,Rachel,29,cms_block_save,,127.0.0.1
+10338,2130706433,219,catalog_products,"2018-10-19 03:23:59",view,"{""general"":""136""}",success,Rachel,29,catalog_product_edit,,127.0.0.1
+10339,2130706433,0,admin_login,"2018-10-19 03:30:01",login,"{""general"":null}",failure,"Vivi Peng",28,adminhtml_index_index,,127.0.0.1
+10340,2130706433,0,admin_login,"2018-10-19 03:30:12",login,"{""general"":null}",success,"Vivi Peng",28,adminhtml_index_index,,127.0.0.1
+10341,2130706433,219,cms_blocks,"2018-10-19 03:32:27",save,"{""general"":""4""}",success,Rachel,29,cms_block_save,,127.0.0.1
+10342,2130706433,219,cms_blocks,"2018-10-19 03:34:19",save,"{""general"":""5""}",success,Rachel,29,cms_block_save,,127.0.0.1
+10343,2130706433,219,catalog_products,"2018-10-19 03:37:04",view,"{""general"":""129""}",success,Rachel,29,catalog_product_edit,,127.0.0.1
+10344,2130706433,219,catalog_products,"2018-10-19 03:37:51",view,"{""general"":""35""}",success,Rachel,29,catalog_product_edit,,127.0.0.1
+10345,2130706433,219,catalog_products,"2018-10-19 03:39:25",view,"{""general"":""49""}",success,Rachel,29,catalog_product_edit,,127.0.0.1
+10346,2130706433,219,cms_pages,"2018-10-19 03:40:25",delete,"{""general"":""9""}",failure,"Vivi Peng",28,cms_page_delete,"error: : You need more permissions to delete this item.",127.0.0.1
+10347,2130706433,219,cms_pages,"2018-10-19 03:40:26",view,"{""general"":""9""}",success,"Vivi Peng",28,cms_page_edit,,127.0.0.1
+10348,2130706433,219,version_cms_pages,"2018-10-19 03:41:32",view,"{""general"":""11""}",success,"Vivi Peng",28,adminhtml_cms_page_edit,,127.0.0.1
+10349,2130706433,219,catalog_products,"2018-10-19 03:44:48",view,"{""general"":""35""}",success,Rachel,29,catalog_product_edit,,127.0.0.1
+10350,2130706433,219,catalog_products,"2018-10-19 03:45:53",save,"{""general"":""35, 36, 34""}",success,Rachel,29,catalog_product_save,,127.0.0.1
+10351,2130706433,219,cms_blocks,"2018-10-19 03:46:20",save,"{""general"":""6""}",success,Rachel,29,cms_block_save,,127.0.0.1
+10352,2130706433,0,admin_login,"2018-10-19 03:54:32",login,"{""general"":null}",success,teddy,27,adminhtml_index_index,,127.0.0.1
+10353,2130706433,45,sales_orders,"2018-10-19 05:02:51",view,"{""general"":""606"",""additional"":{""Magento\\Sales\\Model\\Order\\Interceptor"":{""606"":{""increment_id"":""18101900002""}}}}",success,teddy,27,sales_order_view,,127.0.0.1
+10354,2130706433,45,cache_management,"2018-10-19 05:04:12",save,"{""general"":""Cache types: config, layout, block_html, collections, reflection, db_ddl, eav, customer_notification, full_page, config_integration, config_integration_api, target_rule, translate, config_webservice, vertex ""}",success,teddy,27,adminhtml_cache_massRefresh,,127.0.0.1
+10355,2130706433,219,version_cms_pages,"2018-10-19 05:24:40",view,"{""general"":""10""}",success,"Vivi Peng",28,adminhtml_cms_page_edit,,127.0.0.1
+10356,2130706433,219,cms_pages,"2018-10-19 05:25:12",save,"{""general"":""10""}",failure,"Vivi Peng",28,cms_page_save,"error: : You need more permissions to save this item.",127.0.0.1
+10357,2130706433,45,customer,"2018-10-19 05:26:07",view,"{""general"":""2""}",success,teddy,27,customer_index_edit,,127.0.0.1
+10358,2130706433,219,version_cms_pages,"2018-10-19 05:26:29",view,"{""general"":""12""}",success,"Vivi Peng",28,adminhtml_cms_page_edit,,127.0.0.1
+10359,2130706433,219,cms_pages,"2018-10-19 05:28:43",save,"{""general"":""12""}",failure,"Vivi Peng",28,cms_page_save,"error: : You need more permissions to save this item.",127.0.0.1
+10360,2130706433,45,adminhtml_permission_users,"2018-10-19 05:31:42",view,"{""general"":""27, 28""}",success,teddy,27,adminhtml_user_edit,,127.0.0.1
+10361,2130706433,45,adminhtml_permission_roles,"2018-10-19 05:31:56",view,"{""general"":""259""}",success,teddy,27,adminhtml_user_role_editrole,,127.0.0.1
+10362,2130706433,45,adminhtml_permission_roles,"2018-10-19 05:32:36",save,"{""general"":""259""}",success,teddy,27,adminhtml_user_role_saverole,,127.0.0.1
+10363,2130706433,219,cms_pages,"2018-10-19 05:44:22",view,"{""general"":""""}",success,"Vivi Peng",28,cms_page_edit,,127.0.0.1
+10364,2130706433,219,version_cms_pages,"2018-10-19 05:47:42",view,"{""general"":""12""}",success,"Vivi Peng",28,adminhtml_cms_page_edit,,127.0.0.1
+10365,2130706433,219,cms_pages,"2018-10-19 05:49:00",save,"{""general"":""12""}",failure,"Vivi Peng",28,cms_page_save,"error: : You need more permissions to save this item.",127.0.0.1
+10366,2130706433,45,adminhtml_permission_users,"2018-10-19 05:50:58",view,"{""general"":""27, 28""}",success,teddy,27,adminhtml_user_edit,,127.0.0.1
+10367,2130706433,45,adminhtml_permission_users,"2018-10-19 05:51:13",save,"{""general"":""27, 28""}",success,teddy,27,adminhtml_user_save,,127.0.0.1
+10368,2130706433,219,version_cms_pages,"2018-10-19 05:53:20",view,"{""general"":""12""}",success,"Vivi Peng",28,adminhtml_cms_page_edit,,127.0.0.1
+10369,2130706433,45,cms_blocks,"2018-10-19 05:53:49",view,"{""general"":""10""}",success,teddy,27,cms_block_edit,,127.0.0.1
+10370,2130706433,219,cms_pages,"2018-10-19 05:54:09",save,"{""general"":""12""}",failure,"Vivi Peng",28,cms_page_save,"error: : You need more permissions to save this item.",127.0.0.1
+10371,2130706433,219,cms_pages,"2018-10-19 05:56:31",save,"{""general"":""12""}",failure,"Vivi Peng",28,cms_page_save,"error: : You need more permissions to save this item.",127.0.0.1
+10372,2130706433,219,version_cms_pages,"2018-10-19 06:06:09",view,"{""general"":""12""}",success,"Vivi Peng",28,adminhtml_cms_page_edit,,127.0.0.1
+10373,2130706433,219,cms_pages,"2018-10-19 06:07:08",save,"{""general"":""12""}",failure,"Vivi Peng",28,cms_page_save,"error: : You need more permissions to save this item.",127.0.0.1
+10374,2130706433,219,cms_pages,"2018-10-19 06:07:13",save,"{""general"":""12""}",failure,"Vivi Peng",28,cms_page_save,"error: : You need more permissions to save this item.",127.0.0.1
+10375,2130706433,45,version_cms_pages,"2018-10-19 06:07:54",view,"{""general"":""12""}",success,teddy,27,adminhtml_cms_page_edit,,127.0.0.1
+10376,2130706433,45,cms_pages,"2018-10-19 06:09:01",save,"{""general"":""12""}",success,teddy,27,cms_page_save,,127.0.0.1
+10377,2130706433,0,admin_login,"2018-10-19 06:12:24",login,"{""general"":null}",success,teddy,27,adminhtml_index_index,,127.0.0.1
+10378,2130706433,219,version_cms_pages,"2018-10-19 06:12:47",view,"{""general"":""12""}",success,teddy,27,adminhtml_cms_page_edit,,127.0.0.1
+10379,2130706433,219,cms_pages,"2018-10-19 06:13:19",save,"{""general"":""12""}",success,teddy,27,cms_page_save,,127.0.0.1
+10380,2130706433,0,admin_login,"2018-10-19 06:13:48",login,"{""general"":null}",success,teddy,27,adminhtml_index_index,,127.0.0.1
+10381,2130706433,219,version_cms_pages,"2018-10-19 06:14:07",view,"{""general"":""11""}",success,teddy,27,adminhtml_cms_page_edit,,127.0.0.1
+10382,2130706433,219,cms_pages,"2018-10-19 06:18:45",save,"{""general"":""11""}",success,teddy,27,cms_page_save,,127.0.0.1
+10383,2130706433,219,version_cms_pages,"2018-10-19 06:19:12",view,"{""general"":""14""}",success,teddy,27,adminhtml_cms_page_edit,,127.0.0.1
+10384,2130706433,219,cms_pages,"2018-10-19 06:24:58",save,"{""general"":""14""}",success,teddy,27,cms_page_save,,127.0.0.1
+10385,2130706433,219,version_cms_pages,"2018-10-19 06:25:19",view,"{""general"":""13""}",success,teddy,27,adminhtml_cms_page_edit,,127.0.0.1
+10386,2130706433,219,cms_pages,"2018-10-19 06:26:06",save,"{""general"":""13""}",success,teddy,27,cms_page_save,,127.0.0.1
+10387,2130706433,219,version_cms_pages,"2018-10-19 06:26:21",view,"{""general"":""13""}",success,teddy,27,adminhtml_cms_page_edit,,127.0.0.1
+10388,2130706433,219,cms_pages,"2018-10-19 06:26:41",save,"{""general"":""13""}",success,teddy,27,cms_page_save,,127.0.0.1
+10389,2130706433,219,version_cms_pages,"2018-10-19 06:26:52",view,"{""general"":""12""}",success,teddy,27,adminhtml_cms_page_edit,,127.0.0.1
+10390,2130706433,219,cms_pages,"2018-10-19 06:27:07",save,"{""general"":""12""}",success,teddy,27,cms_page_save,,127.0.0.1
+10391,2130706433,219,version_cms_pages,"2018-10-19 06:27:17",view,"{""general"":""11""}",success,teddy,27,adminhtml_cms_page_edit,,127.0.0.1
+10392,2130706433,0,admin_login,"2018-10-19 06:30:21",login,"{""general"":null}",success,ganfanghua,17,adminhtml_index_index,,127.0.0.1
+10393,2130706433,45,cms_blocks,"2018-10-19 06:32:02",view,"{""general"":""10""}",success,ganfanghua,17,cms_block_edit,,127.0.0.1
+10394,2130706433,45,cms_blocks,"2018-10-19 06:33:05",save,"{""general"":""10""}",success,ganfanghua,17,cms_block_save,,127.0.0.1
+10395,2130706433,219,version_cms_pages,"2018-10-19 06:38:29",view,"{""general"":""14""}",success,teddy,27,adminhtml_cms_page_edit,,127.0.0.1
+10396,2130706433,219,cms_pages,"2018-10-19 06:38:49",save,"{""general"":""14""}",success,teddy,27,cms_page_save,,127.0.0.1
+10397,2130706433,219,catalog_products,"2018-10-19 06:51:38",view,"{""general"":""1""}",success,Rachel,29,catalog_product_edit,,127.0.0.1
+10398,2130706433,219,catalog_products,"2018-10-19 06:51:39",view,"{""general"":""2""}",success,Rachel,29,catalog_product_edit,,127.0.0.1
+10399,2130706433,219,catalog_products,"2018-10-19 06:51:40",view,"{""general"":""3""}",success,Rachel,29,catalog_product_edit,,127.0.0.1
+10400,2130706433,219,catalog_products,"2018-10-19 06:51:41",view,"{""general"":""4""}",success,Rachel,29,catalog_product_edit,,127.0.0.1
+10401,2130706433,219,catalog_products,"2018-10-19 06:51:42",view,"{""general"":""5""}",success,Rachel,29,catalog_product_edit,,127.0.0.1
+10402,2130706433,219,catalog_products,"2018-10-19 06:51:43",view,"{""general"":""6""}",success,Rachel,29,catalog_product_edit,,127.0.0.1
+10403,2130706433,219,catalog_products,"2018-10-19 06:51:46",view,"{""general"":""7""}",success,Rachel,29,catalog_product_edit,,127.0.0.1
+10404,2130706433,219,catalog_products,"2018-10-19 06:51:48",view,"{""general"":""8""}",success,Rachel,29,catalog_product_edit,,127.0.0.1
+10405,2130706433,219,catalog_products,"2018-10-19 06:51:49",view,"{""general"":""9""}",success,Rachel,29,catalog_product_edit,,127.0.0.1
+10406,2130706433,219,catalog_products,"2018-10-19 06:52:00",view,"{""general"":""12""}",success,Rachel,29,catalog_product_edit,,127.0.0.1
+10407,2130706433,219,catalog_products,"2018-10-19 06:52:02",view,"{""general"":""13""}",success,Rachel,29,catalog_product_edit,,127.0.0.1
+10408,2130706433,219,catalog_products,"2018-10-19 06:52:06",view,"{""general"":""14""}",success,Rachel,29,catalog_product_edit,,127.0.0.1
+10409,2130706433,219,catalog_products,"2018-10-19 06:52:09",view,"{""general"":""15""}",success,Rachel,29,catalog_product_edit,,127.0.0.1
+10410,2130706433,219,catalog_products,"2018-10-19 06:52:11",view,"{""general"":""16""}",success,Rachel,29,catalog_product_edit,,127.0.0.1
+10411,2130706433,219,catalog_products,"2018-10-19 06:52:19",view,"{""general"":""11""}",success,Rachel,29,catalog_product_edit,,127.0.0.1
+10412,2130706433,0,admin_login,"2018-10-19 07:05:37",login,"{""general"":null}",success,teddy,27,adminhtml_index_index,,127.0.0.1
+10413,2130706433,45,adminhtml_system_config,"2018-10-19 07:27:32",view,"{""general"":""socialshare""}",success,teddy,27,adminhtml_system_config_index,,127.0.0.1
+10414,2130706433,45,cms_pages,"2018-10-19 07:29:46",delete,"{""general"":""9""}",success,teddy,27,cms_page_delete,,127.0.0.1
+10415,2130706433,0,admin_login,"2018-10-19 08:00:53",login,"{""general"":null}",success,Rachel,29,adminhtml_index_index,,127.0.0.1
+10416,2130706433,219,catalog_products,"2018-10-19 09:02:20",view,"{""general"":""1""}",success,Rachel,29,catalog_product_edit,,127.0.0.1
+10417,2130706433,219,catalog_products,"2018-10-19 09:02:21",view,"{""general"":""3""}",success,Rachel,29,catalog_product_edit,,127.0.0.1
+10418,2130706433,219,catalog_products,"2018-10-19 09:02:22",view,"{""general"":""4""}",success,Rachel,29,catalog_product_edit,,127.0.0.1
+10419,2130706433,219,catalog_products,"2018-10-19 09:02:23",view,"{""general"":""2""}",success,Rachel,29,catalog_product_edit,,127.0.0.1
+10420,2130706433,219,catalog_products,"2018-10-19 09:03:52",save,"{""general"":""1, 2, 3""}",success,Rachel,29,catalog_product_save,,127.0.0.1
+10421,2130706433,219,catalog_products,"2018-10-19 09:09:25",save,"{""general"":""3, 1, 2, 41, 42, 129""}",success,Rachel,29,catalog_product_save,,127.0.0.1
+10422,2130706433,219,catalog_products,"2018-10-19 09:09:26",save,"{""general"":""2, 1, 3, 36, 47""}",success,Rachel,29,catalog_product_save,,127.0.0.1
+10423,2130706433,219,catalog_products,"2018-10-19 09:10:38",save,"{""general"":""4""}",success,Rachel,29,catalog_product_save,,127.0.0.1
+10424,2130706433,219,catalog_products,"2018-10-19 09:10:53",save,"{""general"":""2, 1, 3, 36, 47""}",success,Rachel,29,catalog_product_save,,127.0.0.1
+10425,2130706433,219,catalog_products,"2018-10-19 09:10:55",view,"{""general"":""1""}",success,Rachel,29,catalog_product_edit,,127.0.0.1
+10426,2130706433,219,catalog_products,"2018-10-19 09:10:57",view,"{""general"":""3""}",success,Rachel,29,catalog_product_edit,,127.0.0.1
+10427,2130706433,219,catalog_products,"2018-10-19 09:13:54",view,"{""general"":""6""}",success,Rachel,29,catalog_product_edit,,127.0.0.1
+10428,2130706433,219,catalog_products,"2018-10-19 09:13:56",view,"{""general"":""7""}",success,Rachel,29,catalog_product_edit,,127.0.0.1
+10429,2130706433,219,catalog_products,"2018-10-19 09:14:00",view,"{""general"":""9""}",success,Rachel,29,catalog_product_edit,,127.0.0.1
+10430,2130706433,219,catalog_products,"2018-10-19 09:14:01",view,"{""general"":""5""}",success,Rachel,29,catalog_product_edit,,127.0.0.1
+10431,2130706433,219,catalog_products,"2018-10-19 09:14:02",view,"{""general"":""8""}",success,Rachel,29,catalog_product_edit,,127.0.0.1
+10432,2130706433,219,catalog_products,"2018-10-19 09:14:10",view,"{""general"":""11""}",success,Rachel,29,catalog_product_edit,,127.0.0.1
+10433,2130706433,219,catalog_products,"2018-10-19 09:14:12",view,"{""general"":""12""}",success,Rachel,29,catalog_product_edit,,127.0.0.1
+10434,2130706433,219,catalog_products,"2018-10-19 09:14:13",view,"{""general"":""13""}",success,Rachel,29,catalog_product_edit,,127.0.0.1
+10435,2130706433,219,catalog_products,"2018-10-19 09:14:15",view,"{""general"":""14""}",success,Rachel,29,catalog_product_edit,,127.0.0.1
+10436,2130706433,219,catalog_products,"2018-10-19 09:14:16",view,"{""general"":""15""}",success,Rachel,29,catalog_product_edit,,127.0.0.1
+10437,2130706433,219,catalog_products,"2018-10-19 09:14:17",view,"{""general"":""16""}",success,Rachel,29,catalog_product_edit,,127.0.0.1
+10438,2130706433,219,catalog_products,"2018-10-19 09:15:10",save,"{""general"":""5, 32""}",success,Rachel,29,catalog_product_save,,127.0.0.1
+10439,2130706433,219,catalog_products,"2018-10-19 09:15:46",save,"{""general"":""6""}",success,Rachel,29,catalog_product_save,,127.0.0.1
+10440,2130706433,219,catalog_products,"2018-10-19 09:16:22",save,"{""general"":""7""}",success,Rachel,29,catalog_product_save,,127.0.0.1
+10441,2130706433,219,catalog_products,"2018-10-19 09:17:36",save,"{""general"":""8, 11, 12, 13, 37, 47""}",success,Rachel,29,catalog_product_save,,127.0.0.1
+10442,2130706433,219,catalog_products,"2018-10-19 09:18:08",save,"{""general"":""9""}",success,Rachel,29,catalog_product_save,,127.0.0.1
+10443,2130706433,219,catalog_products,"2018-10-19 09:18:51",save,"{""general"":""11, 8, 12, 16, 39""}",success,Rachel,29,catalog_product_save,,127.0.0.1
+10444,2130706433,219,catalog_products,"2018-10-19 09:20:09",save,"{""general"":""8, 11, 12, 13, 37, 47""}",success,Rachel,29,catalog_product_save,,127.0.0.1
+10445,2130706433,219,catalog_products,"2018-10-19 09:34:52",view,"{""general"":""136""}",success,Rachel,29,catalog_product_edit,,127.0.0.1
+10446,2130706433,219,catalog_products,"2018-10-19 09:35:31",view,"{""general"":""8""}",success,Rachel,29,catalog_product_edit,,127.0.0.1
+10447,2130706433,219,catalog_products,"2018-10-19 09:37:31",save,"{""general"":""12, 8, 11, 13""}",success,Rachel,29,catalog_product_save,,127.0.0.1
+10448,2130706433,219,catalog_products,"2018-10-19 09:37:43",save,"{""general"":""13, 8, 11, 12, 41, 42, 129""}",success,Rachel,29,catalog_product_save,,127.0.0.1
+10449,2130706433,219,catalog_products,"2018-10-19 09:37:57",save,"{""general"":""14, 5, 15""}",success,Rachel,29,catalog_product_save,,127.0.0.1
+10450,2130706433,219,catalog_products,"2018-10-19 09:38:25",save,"{""general"":""15, 5, 14""}",success,Rachel,29,catalog_product_save,,127.0.0.1
+10451,2130706433,219,catalog_products,"2018-10-19 09:38:39",save,"{""general"":""16, 2, 23""}",success,Rachel,29,catalog_product_save,,127.0.0.1
+10452,2130706433,219,catalog_products,"2018-10-19 09:39:01",view,"{""general"":""10""}",success,Rachel,29,catalog_product_edit,,127.0.0.1
+10453,2130706433,219,catalog_products,"2018-10-19 09:39:02",view,"{""general"":""11""}",success,Rachel,29,catalog_product_edit,,127.0.0.1
+10454,2130706433,0,admin_login,"2018-10-19 09:40:20",login,"{""general"":null}",success,teddy,27,adminhtml_index_index,,127.0.0.1
+10455,2130706433,219,catalog_products,"2018-10-19 09:41:28",view,"{""general"":""22""}",success,Rachel,29,catalog_product_edit,,127.0.0.1
+10456,2130706433,219,catalog_products,"2018-10-19 09:41:30",view,"{""general"":""23""}",success,Rachel,29,catalog_product_edit,,127.0.0.1
+10457,2130706433,219,catalog_products,"2018-10-19 09:41:31",view,"{""general"":""25""}",success,Rachel,29,catalog_product_edit,,127.0.0.1
+10458,2130706433,219,catalog_products,"2018-10-19 09:41:32",view,"{""general"":""24""}",success,Rachel,29,catalog_product_edit,,127.0.0.1
+10459,2130706433,219,catalog_products,"2018-10-19 09:41:33",view,"{""general"":""27""}",success,Rachel,29,catalog_product_edit,,127.0.0.1
+10460,2130706433,219,catalog_products,"2018-10-19 09:41:36",view,"{""general"":""30""}",success,Rachel,29,catalog_product_edit,,127.0.0.1
+10461,2130706433,219,catalog_products,"2018-10-19 09:41:37",view,"{""general"":""31""}",success,Rachel,29,catalog_product_edit,,127.0.0.1
+10462,2130706433,219,catalog_products,"2018-10-19 09:41:39",view,"{""general"":""32""}",success,Rachel,29,catalog_product_edit,,127.0.0.1
+10463,2130706433,219,catalog_products,"2018-10-19 09:41:39",view,"{""general"":""33""}",success,Rachel,29,catalog_product_edit,,127.0.0.1
+10464,2130706433,45,adminhtml_system_config,"2018-10-19 09:41:44",view,"{""general"":""socialshare""}",success,teddy,27,adminhtml_system_config_index,,127.0.0.1
+10465,2130706433,219,catalog_products,"2018-10-19 09:42:30",view,"{""general"":""140""}",success,Rachel,29,catalog_product_edit,,127.0.0.1
+10466,2130706433,219,catalog_products,"2018-10-19 09:42:32",view,"{""general"":""139""}",success,Rachel,29,catalog_product_edit,,127.0.0.1
+10467,2130706433,219,catalog_products,"2018-10-19 09:42:34",view,"{""general"":""137""}",success,Rachel,29,catalog_product_edit,,127.0.0.1
+10468,2130706433,219,catalog_products,"2018-10-19 09:42:36",view,"{""general"":""136""}",success,Rachel,29,catalog_product_edit,,127.0.0.1
+10469,2130706433,219,catalog_products,"2018-10-19 09:42:40",view,"{""general"":""135""}",success,Rachel,29,catalog_product_edit,,127.0.0.1
+10470,2130706433,219,catalog_products,"2018-10-19 09:42:43",view,"{""general"":""132""}",success,Rachel,29,catalog_product_edit,,127.0.0.1
+10471,2130706433,219,catalog_products,"2018-10-19 09:42:44",view,"{""general"":""131""}",success,Rachel,29,catalog_product_edit,,127.0.0.1
+10472,2130706433,219,catalog_products,"2018-10-19 09:42:51",view,"{""general"":""130""}",success,Rachel,29,catalog_product_edit,,127.0.0.1
+10473,2130706433,45,adminhtml_system_config,"2018-10-19 09:44:13",view,"{""general"":""sociallogin""}",success,teddy,27,adminhtml_system_config_edit,,127.0.0.1
+10474,2130706433,219,catalog_products,"2018-10-19 10:12:31",view,"{""general"":""32""}",success,Rachel,29,catalog_product_edit,,127.0.0.1
+10475,2130706433,219,catalog_products,"2018-10-19 10:12:36",view,"{""general"":""31""}",success,Rachel,29,catalog_product_edit,,127.0.0.1
+10476,2130706433,219,catalog_products,"2018-10-19 10:12:42",view,"{""general"":""30""}",success,Rachel,29,catalog_product_edit,,127.0.0.1
+10477,2130706433,219,catalog_products,"2018-10-19 10:13:16",save,"{""general"":""31, 30, 33""}",success,Rachel,29,catalog_product_save,,127.0.0.1
+10478,2130706433,219,catalog_products,"2018-10-19 10:13:28",save,"{""general"":""33, 31, 35, 37""}",success,Rachel,29,catalog_product_save,,127.0.0.1
+10479,2130706433,219,catalog_products,"2018-10-19 10:13:45",save,"{""general"":""30, 35, 37, 129""}",success,Rachel,29,catalog_product_save,,127.0.0.1
+10480,2130706433,219,catalog_products,"2018-10-19 10:14:17",save,"{""general"":""140""}",success,Rachel,29,catalog_product_save,,127.0.0.1
+10481,2130706433,219,catalog_products,"2018-10-19 10:14:36",save,"{""general"":""139, 36, 47""}",success,Rachel,29,catalog_product_save,,127.0.0.1
+10482,2130706433,219,catalog_products,"2018-10-19 10:14:57",save,"{""general"":""137""}",success,Rachel,29,catalog_product_save,,127.0.0.1
+10483,2130706433,219,catalog_products,"2018-10-19 10:15:28",save,"{""general"":""136""}",success,Rachel,29,catalog_product_save,,127.0.0.1
+10484,2130706433,219,catalog_products,"2018-10-19 10:15:49",save,"{""general"":""135""}",success,Rachel,29,catalog_product_save,,127.0.0.1
+10485,2130706433,219,catalog_products,"2018-10-19 10:16:10",save,"{""general"":""132, 34""}",success,Rachel,29,catalog_product_save,,127.0.0.1
+10486,2130706433,219,catalog_products,"2018-10-19 10:16:23",save,"{""general"":""131, 16, 23""}",success,Rachel,29,catalog_product_save,,127.0.0.1
+10487,2130706433,219,catalog_products,"2018-10-19 10:16:53",save,"{""general"":""130""}",success,Rachel,29,catalog_product_save,,127.0.0.1
+10488,2130706433,0,admin_login,"2018-10-19 10:37:55",login,"{""general"":null}",success,teddy,27,adminhtml_index_index,,127.0.0.1
+10489,2130706433,45,adminhtml_system_config,"2018-10-19 10:38:05",view,"{""general"":""socialshare""}",success,teddy,27,adminhtml_system_config_index,,127.0.0.1
+10490,2130706433,45,adminhtml_system_config,"2018-10-19 10:38:41",view,"{""general"":""sociallogin""}",success,teddy,27,adminhtml_system_config_edit,,127.0.0.1
+10491,2130706433,45,adminhtml_system_config,"2018-10-19 10:42:26",save,"{""general"":""sociallogin""}",success,teddy,27,adminhtml_system_config_save,,127.0.0.1
+10492,2130706433,45,cache_management,"2018-10-19 10:42:36",save,"{""general"":""Cache types: config, layout, block_html, collections, reflection, db_ddl, eav, customer_notification, full_page, config_integration, config_integration_api, target_rule, translate, config_webservice, vertex ""}",success,teddy,27,adminhtml_cache_massRefresh,,127.0.0.1
+10493,2130706433,45,cache_management,"2018-10-19 10:44:54",save,"{""general"":""Cache types: config, layout, block_html, collections, reflection, db_ddl, eav, customer_notification, full_page, config_integration, config_integration_api, target_rule, translate, config_webservice, vertex ""}",success,teddy,27,adminhtml_cache_massRefresh,,127.0.0.1

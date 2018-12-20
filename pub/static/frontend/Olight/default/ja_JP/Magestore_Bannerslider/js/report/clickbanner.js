@@ -1,0 +1,1 @@
+/olight/wwwroot/ceikit.store.jp/app/code/Magestore/Bannerslider/view/frontend/web/js/report/clickbanner.js

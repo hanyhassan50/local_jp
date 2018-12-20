@@ -1,0 +1,65 @@
+<?php
+/**
+ * Copyright © Magento, Inc. All rights reserved.
+ * See COPYING.txt for license details.
+ */
+
+// @codingStandardsIgnoreFile
+
+?>
+<?php
+    /* @var $block \Magento\MultipleWishlist\Block\Behaviour */
+?>
+<script id="form-tmpl-multiple" type="text/x-magento-template">
+    <form id="wishlist-hidden-form" method="post" action="<%- data.url %>" class="no-display">
+        <% if (data.itemId) { %>
+            <input name="item_id" value="<%- data.itemId %>">
+        <% } %>
+        <% if (data.wishlistId) { %>
+            <input name="wishlist_id" value="<%- data.wishlistId %>">
+        <% } %>
+        <% if (data.qty) { %>
+            <input name="qty" value="<%- data.qty %>">
+        <% } %>
+        <% if (data.item) { %>
+            <input name="item" value="<%- data.item %>">
+        <% } %>
+        <% if (data.entity) { %>
+            <input name="entity" value="<%- data.entity %>">
+        <% } %>
+        <% if (data.form_key) { %>
+            <input name="form_key" value="<%- data.form_key %>">
+        <% } %>
+    </form>
+</script>
+<script id="popup-tmpl" type="text/x-magento-template">
+   <a href="#" class="action towishlist" data-post='<%- JSON.stringify(data.generalParams) %>' data-action="add-to-wishlist" data-action="add-to-wishlist">
+    <span><%- data.buttonName %></span>
+	</span>
+	</a> 
+</script>
+<script id="split-btn-tmpl" type="text/x-magento-template">
+	<a href="#" class="action towishlist" data-post='<%- JSON.stringify(data.generalParams) %>' data-action="add-to-wishlist" data-action="add-to-wishlist">
+    <span><%- data.buttonName %></span>
+	</span>
+	</a> 
+</script>
+<script type="text/x-magento-init">
+    {
+        "*": {
+            "Magento_Ui/js/core/app": {
+                "components": {
+                    "multiplewishlist": {
+                        "component": "Magento_MultipleWishlist/js/view/multiple-wishlist",
+                        "config": {
+                            "multipleWishlistOptions": {
+                                "createUrl": "<?= /* @escapeNotVerified */  $block->getCreateUrl() ?>",
+                                "wishlistLink": ".action.towishlist"
+                            }
+                        }
+                    }
+                }
+            }
+        }
+    }
+</script>

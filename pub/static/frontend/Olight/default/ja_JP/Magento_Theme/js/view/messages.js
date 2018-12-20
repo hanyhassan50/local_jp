@@ -1,0 +1,1 @@
+/olight/wwwroot/ceikit.store.jp/vendor/magento/module-theme/view/frontend/web/js/view/messages.js

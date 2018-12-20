@@ -1,0 +1,113 @@
+2018-12-19 01:00:10，定时收集符合条件的废弃购物车到表abandoned_cart_email的运行时间为 0.0678870677948 秒
+2018-12-19 01:10:09，定时收集符合条件的客户生日到表birthday_reminder_email的运行时间为 0.012836933135986 秒
+2018-12-19 01:30:11，定时收集符合条件的客户订单到表order_review_email的运行时间为 0.0017390251159668 秒
+2018-12-19 02:01:16，定时发送AbandonedCartEmail运行时间为 66.386574983597 秒
+2018-12-19 02:10:09，定时发送BirthdayReminderEmail运行时间为 0.0083050727844238 秒
+
+                                                                                                                                                                                                                                                                                                                                            
+  [Magento\Framework\DB\Adapter\DeadlockException]                                                                                                                                                                                                                                                                                          
+  SQLSTATE[40001]: Serialization failure: 1213 Deadlock found when trying to get lock; try restarting transaction, query was: DELETE FROM `cron_schedule` WHERE (status = 'success') AND (job_code in ('staging_apply_version', 'staging_remove_updates', 'staging_synchronize_entities_period')) AND (created_at < '2018-12-19 01:29:14')  
+                                                                                                                                                                                                                                                                                                                                            
+
+                                                                                                                                                                                                                                                                                                                                            
+  [Zend_Db_Statement_Exception]                                                                                                                                                                                                                                                                                                             
+  SQLSTATE[40001]: Serialization failure: 1213 Deadlock found when trying to get lock; try restarting transaction, query was: DELETE FROM `cron_schedule` WHERE (status = 'success') AND (job_code in ('staging_apply_version', 'staging_remove_updates', 'staging_synchronize_entities_period')) AND (created_at < '2018-12-19 01:29:14')  
+                                                                                                                                                                                                                                                                                                                                            
+
+                                                                                                                   
+  [PDOException]                                                                                                   
+  SQLSTATE[40001]: Serialization failure: 1213 Deadlock found when trying to get lock; try restarting transaction  
+                                                                                                                   
+
+cron:run [--group GROUP] [--bootstrap BOOTSTRAP]
+
+
+                                                                                                                                                                                                                                                                                                                                          
+  [Magento\Framework\DB\Adapter\DeadlockException]                                                                                                                                                                                                                                                                                        
+  SQLSTATE[40001]: Serialization failure: 1213 Deadlock found when trying to get lock; try restarting transaction, query was: DELETE FROM `cron_schedule` WHERE (status = 'error') AND (job_code in ('staging_apply_version', 'staging_remove_updates', 'staging_synchronize_entities_period')) AND (created_at < '2018-12-18 17:00:03')  
+                                                                                                                                                                                                                                                                                                                                          
+
+                                                                                                                                                                                                                                                                                                                                          
+  [Zend_Db_Statement_Exception]                                                                                                                                                                                                                                                                                                           
+  SQLSTATE[40001]: Serialization failure: 1213 Deadlock found when trying to get lock; try restarting transaction, query was: DELETE FROM `cron_schedule` WHERE (status = 'error') AND (job_code in ('staging_apply_version', 'staging_remove_updates', 'staging_synchronize_entities_period')) AND (created_at < '2018-12-18 17:00:03')  
+                                                                                                                                                                                                                                                                                                                                          
+
+                                                                                                                   
+  [PDOException]                                                                                                   
+  SQLSTATE[40001]: Serialization failure: 1213 Deadlock found when trying to get lock; try restarting transaction  
+                                                                                                                   
+
+cron:run [--group GROUP] [--bootstrap BOOTSTRAP]
+
+
+                                                                                                                                                                                                                                                                                                                                            
+  [Magento\Framework\DB\Adapter\DeadlockException]                                                                                                                                                                                                                                                                                          
+  SQLSTATE[40001]: Serialization failure: 1213 Deadlock found when trying to get lock; try restarting transaction, query was: DELETE FROM `cron_schedule` WHERE (status = 'success') AND (job_code in ('staging_apply_version', 'staging_remove_updates', 'staging_synchronize_entities_period')) AND (created_at < '2018-12-19 02:26:03')  
+                                                                                                                                                                                                                                                                                                                                            
+
+                                                                                                                                                                                                                                                                                                                                            
+  [Zend_Db_Statement_Exception]                                                                                                                                                                                                                                                                                                             
+  SQLSTATE[40001]: Serialization failure: 1213 Deadlock found when trying to get lock; try restarting transaction, query was: DELETE FROM `cron_schedule` WHERE (status = 'success') AND (job_code in ('staging_apply_version', 'staging_remove_updates', 'staging_synchronize_entities_period')) AND (created_at < '2018-12-19 02:26:03')  
+                                                                                                                                                                                                                                                                                                                                            
+
+                                                                                                                   
+  [PDOException]                                                                                                   
+  SQLSTATE[40001]: Serialization failure: 1213 Deadlock found when trying to get lock; try restarting transaction  
+                                                                                                                   
+
+cron:run [--group GROUP] [--bootstrap BOOTSTRAP]
+
+
+                                                                                                                                                                                                                                                                                                                                            
+  [Magento\Framework\DB\Adapter\DeadlockException]                                                                                                                                                                                                                                                                                          
+  SQLSTATE[40001]: Serialization failure: 1213 Deadlock found when trying to get lock; try restarting transaction, query was: DELETE FROM `cron_schedule` WHERE (status = 'success') AND (job_code in ('staging_apply_version', 'staging_remove_updates', 'staging_synchronize_entities_period')) AND (created_at < '2018-12-19 02:48:03')  
+                                                                                                                                                                                                                                                                                                                                            
+
+                                                                                                                                                                                                                                                                                                                                            
+  [Zend_Db_Statement_Exception]                                                                                                                                                                                                                                                                                                             
+  SQLSTATE[40001]: Serialization failure: 1213 Deadlock found when trying to get lock; try restarting transaction, query was: DELETE FROM `cron_schedule` WHERE (status = 'success') AND (job_code in ('staging_apply_version', 'staging_remove_updates', 'staging_synchronize_entities_period')) AND (created_at < '2018-12-19 02:48:03')  
+                                                                                                                                                                                                                                                                                                                                            
+
+                                                                                                                   
+  [PDOException]                                                                                                   
+  SQLSTATE[40001]: Serialization failure: 1213 Deadlock found when trying to get lock; try restarting transaction  
+                                                                                                                   
+
+cron:run [--group GROUP] [--bootstrap BOOTSTRAP]
+
+
+                                                                                                                                                                                                                                                                                                                                           
+  [Magento\Framework\DB\Adapter\DeadlockException]                                                                                                                                                                                                                                                                                         
+  SQLSTATE[40001]: Serialization failure: 1213 Deadlock found when trying to get lock; try restarting transaction, query was: DELETE FROM `cron_schedule` WHERE (status = 'missed') AND (job_code in ('staging_apply_version', 'staging_remove_updates', 'staging_synchronize_entities_period')) AND (created_at < '2018-12-18 17:58:03')  
+                                                                                                                                                                                                                                                                                                                                           
+
+                                                                                                                                                                                                                                                                                                                                           
+  [Zend_Db_Statement_Exception]                                                                                                                                                                                                                                                                                                            
+  SQLSTATE[40001]: Serialization failure: 1213 Deadlock found when trying to get lock; try restarting transaction, query was: DELETE FROM `cron_schedule` WHERE (status = 'missed') AND (job_code in ('staging_apply_version', 'staging_remove_updates', 'staging_synchronize_entities_period')) AND (created_at < '2018-12-18 17:58:03')  
+                                                                                                                                                                                                                                                                                                                                           
+
+                                                                                                                   
+  [PDOException]                                                                                                   
+  SQLSTATE[40001]: Serialization failure: 1213 Deadlock found when trying to get lock; try restarting transaction  
+                                                                                                                   
+
+cron:run [--group GROUP] [--bootstrap BOOTSTRAP]
+
+
+                                                                                                                                                                                                                                                                                                                                            
+  [Magento\Framework\DB\Adapter\DeadlockException]                                                                                                                                                                                                                                                                                          
+  SQLSTATE[40001]: Serialization failure: 1213 Deadlock found when trying to get lock; try restarting transaction, query was: DELETE FROM `cron_schedule` WHERE (status = 'pending') AND (job_code in ('staging_apply_version', 'staging_remove_updates', 'staging_synchronize_entities_period')) AND (created_at < '2018-12-18 19:51:03')  
+                                                                                                                                                                                                                                                                                                                                            
+
+                                                                                                                                                                                                                                                                                                                                            
+  [Zend_Db_Statement_Exception]                                                                                                                                                                                                                                                                                                             
+  SQLSTATE[40001]: Serialization failure: 1213 Deadlock found when trying to get lock; try restarting transaction, query was: DELETE FROM `cron_schedule` WHERE (status = 'pending') AND (job_code in ('staging_apply_version', 'staging_remove_updates', 'staging_synchronize_entities_period')) AND (created_at < '2018-12-18 19:51:03')  
+                                                                                                                                                                                                                                                                                                                                            
+
+                                                                                                                   
+  [PDOException]                                                                                                   
+  SQLSTATE[40001]: Serialization failure: 1213 Deadlock found when trying to get lock; try restarting transaction  
+                                                                                                                   
+
+cron:run [--group GROUP] [--bootstrap BOOTSTRAP]
+

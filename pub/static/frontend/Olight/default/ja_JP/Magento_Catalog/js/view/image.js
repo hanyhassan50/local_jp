@@ -1,0 +1,1 @@
+/olight/wwwroot/ceikit.store.jp/vendor/magento/module-catalog/view/frontend/web/js/view/image.js

@@ -1,0 +1,73 @@
+5470,2637451549,45,cms_blocks,"2018-09-07 07:31:34",view,"{""general"":""14""}",success,helis,5,cms_block_edit,,157.52.81.29
+5471,2637451549,45,cms_blocks,"2018-09-07 07:31:36",view,"{""general"":""14""}",success,helis,5,cms_block_edit,,157.52.81.29
+5472,2637451549,45,cms_blocks,"2018-09-07 07:47:54",save,"{""general"":""14""}",success,helis,5,cms_block_save,,157.52.81.29
+5473,2637451549,45,cms_blocks,"2018-09-07 08:02:50",view,"{""general"":""10""}",success,helis,5,cms_block_edit,,157.52.81.29
+5474,2637451549,45,cms_blocks,"2018-09-07 08:03:56",save,"{""general"":""10""}",success,helis,5,cms_block_save,,157.52.81.29
+5475,2637451549,45,cache_management,"2018-09-07 08:04:27",save,"{""general"":""Cache types: config, layout, block_html, collections, reflection, db_ddl, eav, customer_notification, full_page, config_integration, config_integration_api, target_rule, translate, config_webservice ""}",success,helis,5,adminhtml_cache_massRefresh,,157.52.81.29
+5476,2637451548,0,admin_login,"2018-09-07 08:21:53",login,"{""general"":null}",success,Toby,11,adminhtml_index_index,,157.52.81.28
+5477,2637451542,45,catalog_products,"2018-09-07 08:22:54",view,"{""general"":""131""}",success,Toby,11,catalog_product_edit,,157.52.81.22
+5478,2637451548,45,catalog_products,"2018-09-07 08:23:55",view,"{""general"":""131""}",success,Toby,11,catalog_product_edit,,157.52.81.28
+5479,2637451548,45,cache_management,"2018-09-07 08:35:53",save,"{""general"":""Cache types: config, layout, block_html, collections, reflection, db_ddl, eav, customer_notification, full_page, config_integration, config_integration_api, target_rule, translate, config_webservice ""}",success,helis,5,adminhtml_cache_massRefresh,,157.52.81.28
+5480,2637451548,45,cache_management,"2018-09-07 08:36:57",save,"{""general"":""Cache types: config, layout, block_html, collections, reflection, db_ddl, eav, customer_notification, full_page, config_integration, config_integration_api, target_rule, translate, config_webservice ""}",success,helis,5,adminhtml_cache_massRefresh,,157.52.81.28
+5481,2637451548,45,catalog_products,"2018-09-07 08:37:11",view,"{""general"":""131""}",success,helis,5,catalog_product_edit,,157.52.81.28
+5482,2637451548,0,admin_login,"2018-09-07 08:41:15",login,"{""general"":null}",success,helis,5,adminhtml_index_index,,157.52.81.28
+5483,2637451548,45,cache_management,"2018-09-07 08:41:32",save,"{""general"":""Cache types: config, layout, block_html, collections, reflection, db_ddl, eav, customer_notification, full_page, config_integration, config_integration_api, target_rule, translate, config_webservice ""}",success,helis,5,adminhtml_cache_massRefresh,,157.52.81.28
+5484,2637451548,45,cache_management,"2018-09-07 08:43:18",save,"{""general"":""Cache types: config, layout, block_html, collections, reflection, db_ddl, eav, customer_notification, full_page, config_integration, config_integration_api, target_rule, translate, config_webservice ""}",success,helis,5,adminhtml_cache_massRefresh,,157.52.81.28
+5485,2637451548,45,catalog_products,"2018-09-07 08:44:27",view,"{""general"":""131""}",success,helis,5,catalog_product_edit,,157.52.81.28
+5486,2637451548,45,catalog_products,"2018-09-07 08:46:10",save,"{""general"":""131, 16, 23""}",success,helis,5,catalog_product_save,,157.52.81.28
+5487,2637451548,45,cache_management,"2018-09-07 08:46:30",save,"{""general"":""Cache types: config, layout, block_html, collections, reflection, db_ddl, eav, customer_notification, full_page, config_integration, config_integration_api, target_rule, translate, config_webservice ""}",success,helis,5,adminhtml_cache_massRefresh,,157.52.81.28
+5488,2637451548,45,catalog_products,"2018-09-07 08:47:37",view,"{""general"":""131""}",success,helis,5,catalog_product_edit,,157.52.81.28
+5489,2637451548,45,cms_blocks,"2018-09-07 08:48:09",view,"{""general"":""13""}",success,helis,5,cms_block_edit,,157.52.81.28
+5490,2637451548,45,catalog_products,"2018-09-07 08:50:53",save,"{""general"":""131, 16, 23""}",success,helis,5,catalog_product_save,,157.52.81.28
+5491,2637451548,45,cache_management,"2018-09-07 08:51:11",save,"{""general"":""Cache types: config, layout, block_html, collections, reflection, db_ddl, eav, customer_notification, full_page, config_integration, config_integration_api, target_rule, translate, config_webservice ""}",success,helis,5,adminhtml_cache_massRefresh,,157.52.81.28
+5492,2637451548,45,catalog_products,"2018-09-07 08:52:17",view,"{""general"":""131""}",success,helis,5,catalog_product_edit,,157.52.81.28
+5493,2637451548,45,catalog_products,"2018-09-07 08:54:38",save,"{""general"":""131, 16, 23""}",success,helis,5,catalog_product_save,,157.52.81.28
+5494,2637451542,0,admin_login,"2018-09-07 08:58:39",login,"{""general"":null}",success,helis,5,adminhtml_index_index,,157.52.81.22
+5495,2637451542,45,catalog_products,"2018-09-07 08:59:01",view,"{""general"":""131""}",success,helis,5,catalog_product_edit,,157.52.81.22
+5496,2637451542,45,catalog_categories,"2018-09-07 09:06:39",view,"{""general"":""8""}",success,helis,5,catalog_category_edit,,157.52.81.22
+5497,2637451542,45,catalog_categories,"2018-09-07 09:07:05",view,"{""general"":""16""}",success,helis,5,catalog_category_edit,,157.52.81.22
+5498,2637451542,45,catalog_categories,"2018-09-07 09:07:16",view,"{""general"":""4""}",success,helis,5,catalog_category_edit,,157.52.81.22
+5499,2637451542,45,catalog_categories,"2018-09-07 09:08:16",save,"{""general"":""4, 2, 3, 10, 11, 8, 9, 12, 36""}",success,helis,5,catalog_category_save,,157.52.81.22
+5500,2637451542,45,catalog_categories,"2018-09-07 09:08:17",view,"{""general"":""4""}",success,helis,5,catalog_category_edit,,157.52.81.22
+5501,2637451542,45,catalog_categories,"2018-09-07 09:09:49",save,"{""general"":""4, 2, 3, 10, 11, 8, 36, 12""}",success,helis,5,catalog_category_save,,157.52.81.22
+5502,2637451542,45,catalog_categories,"2018-09-07 09:09:50",view,"{""general"":""4""}",success,helis,5,catalog_category_edit,,157.52.81.22
+5503,2637451542,45,catalog_categories,"2018-09-07 09:10:01",save,"{""general"":""4""}",success,helis,5,catalog_category_save,,157.52.81.22
+5504,2637451542,45,catalog_categories,"2018-09-07 09:10:02",view,"{""general"":""4""}",success,helis,5,catalog_category_edit,,157.52.81.22
+5505,2637451542,45,cache_management,"2018-09-07 09:10:14",save,"{""general"":""Cache types: config, layout, block_html, collections, reflection, db_ddl, eav, customer_notification, full_page, config_integration, config_integration_api, target_rule, translate, config_webservice ""}",success,helis,5,adminhtml_cache_massRefresh,,157.52.81.22
+5506,2637451554,45,sales_orders,"2018-09-07 09:43:30",view,"{""general"":""229"",""additional"":{""Magento\\Sales\\Model\\Order\\Interceptor"":{""229"":{""increment_id"":""18090600004""}}}}",success,helis,5,sales_order_view,,157.52.81.34
+5507,2637451544,0,admin_login,"2018-09-07 09:44:28",login,"{""general"":null}",success,Toby,11,adminhtml_index_index,,157.52.81.24
+5508,2637451554,45,sales_orders,"2018-09-07 09:56:51",view,"{""general"":""229"",""additional"":{""Magento\\Sales\\Model\\Order\\Interceptor"":{""229"":{""increment_id"":""18090600004""}}}}",success,helis,5,sales_order_view,,157.52.81.34
+5509,2637451554,45,sales_orders,"2018-09-07 09:57:50",view,"{""general"":""229"",""additional"":{""Magento\\Sales\\Model\\Order\\Interceptor"":{""229"":{""increment_id"":""18090600004""}}}}",success,helis,5,sales_order_view,,157.52.81.34
+5510,2637451554,45,sales_orders,"2018-09-07 09:58:57",view,"{""general"":""229"",""additional"":{""Magento\\Sales\\Model\\Order\\Interceptor"":{""229"":{""increment_id"":""18090600004""}}}}",success,helis,5,sales_order_view,,157.52.81.34
+5511,2637451554,45,sales_orders,"2018-09-07 10:03:50",view,"{""general"":""228"",""additional"":{""Magento\\Sales\\Model\\Order\\Interceptor"":{""228"":{""increment_id"":""18090600002""}}}}",success,helis,5,sales_order_view,,157.52.81.34
+5512,2637451555,45,sales_orders,"2018-09-07 10:15:28",view,"{""general"":""229"",""additional"":{""Magento\\Sales\\Model\\Order\\Interceptor"":{""229"":{""increment_id"":""18090600004""}}}}",success,helis,5,sales_order_view,,157.52.81.35
+5513,2637451555,45,sales_orders,"2018-09-07 10:19:59",view,"{""general"":""228"",""additional"":{""Magento\\Sales\\Model\\Order\\Interceptor"":{""228"":{""increment_id"":""18090600002""}}}}",success,helis,5,sales_order_view,,157.52.81.35
+5514,2637451541,45,catalog_categories,"2018-09-07 10:56:14",view,"{""general"":""4""}",success,helis,5,catalog_category_edit,,157.52.81.21
+5515,2637451541,45,catalog_categories,"2018-09-07 11:01:17",view,"{""general"":""4""}",success,helis,5,catalog_category_edit,,157.52.81.21
+5516,2637451541,45,catalog_categories,"2018-09-07 11:03:58",save,"{""general"":""4, 2, 3, 9, 12, 8""}",success,helis,5,catalog_category_save,,157.52.81.21
+5517,2637451541,45,catalog_categories,"2018-09-07 11:03:59",view,"{""general"":""4""}",success,helis,5,catalog_category_edit,,157.52.81.21
+5518,2637451541,45,catalog_categories,"2018-09-07 11:06:46",save,"{""general"":""4, 2, 3, 9, 12, 8, 11, 10, 36""}",success,helis,5,catalog_category_save,,157.52.81.21
+5519,2637451541,45,catalog_categories,"2018-09-07 11:06:46",view,"{""general"":""4""}",success,helis,5,catalog_category_edit,,157.52.81.21
+5520,2637451541,45,catalog_categories,"2018-09-07 11:11:45",save,"{""general"":""4, 2, 3, 11, 8, 12, 9, 10, 36""}",success,helis,5,catalog_category_save,,157.52.81.21
+5521,2637451541,45,catalog_categories,"2018-09-07 11:11:46",view,"{""general"":""4""}",success,helis,5,catalog_category_edit,,157.52.81.21
+5522,2637451541,45,catalog_categories,"2018-09-07 11:11:52",view,"{""general"":""5""}",success,helis,5,catalog_category_edit,,157.52.81.21
+5523,2637451541,45,catalog_categories,"2018-09-07 11:13:20",save,"{""general"":""5, 2, 15, 3, 16, 36, 8""}",success,helis,5,catalog_category_save,,157.52.81.21
+5524,2637451541,45,catalog_categories,"2018-09-07 11:13:21",view,"{""general"":""5""}",success,helis,5,catalog_category_edit,,157.52.81.21
+5525,2637451541,45,catalog_categories,"2018-09-07 11:13:45",view,"{""general"":""7""}",success,helis,5,catalog_category_edit,,157.52.81.21
+5526,2637451541,45,catalog_categories,"2018-09-07 11:19:31",save,"{""general"":""7, 2, 19, 3, 20, 21, 31""}",success,helis,5,catalog_category_save,,157.52.81.21
+5527,2637451541,45,catalog_categories,"2018-09-07 11:19:32",view,"{""general"":""7""}",success,helis,5,catalog_category_edit,,157.52.81.21
+5528,2637451541,45,catalog_categories,"2018-09-07 11:22:07",save,"{""general"":""7, 2, 19, 3, 20, 21, 29, 30, 31""}",success,helis,5,catalog_category_save,,157.52.81.21
+5529,2637451541,45,catalog_categories,"2018-09-07 11:22:08",view,"{""general"":""7""}",success,helis,5,catalog_category_edit,,157.52.81.21
+5530,2637451541,45,cache_management,"2018-09-07 11:22:30",save,"{""general"":""Cache types: config, layout, block_html, collections, reflection, db_ddl, eav, customer_notification, full_page, config_integration, config_integration_api, target_rule, translate, config_webservice ""}",success,helis,5,adminhtml_cache_massRefresh,,157.52.81.21
+5531,2637451553,0,admin_login,"2018-09-07 11:24:31",login,"{""general"":null}",failure,helis,5,adminhtml_index_index,,157.52.81.33
+5532,2637451553,0,admin_login,"2018-09-07 11:24:40",login,"{""general"":null}",success,helis,5,adminhtml_index_index,,157.52.81.33
+5533,2637451553,45,catalog_categories,"2018-09-07 11:25:40",view,"{""general"":""4""}",success,helis,5,catalog_category_edit,,157.52.81.33
+5534,2637451553,45,catalog_categories,"2018-09-07 11:26:31",save,"{""general"":""4""}",success,helis,5,catalog_category_save,,157.52.81.33
+5535,2637451553,45,catalog_categories,"2018-09-07 11:26:32",view,"{""general"":""4""}",success,helis,5,catalog_category_edit,,157.52.81.33
+5536,2637451553,45,catalog_categories,"2018-09-07 11:26:36",view,"{""general"":""5""}",success,helis,5,catalog_category_edit,,157.52.81.33
+5537,2637451553,45,catalog_categories,"2018-09-07 11:26:52",view,"{""general"":""6""}",success,helis,5,catalog_category_edit,,157.52.81.33
+5538,2637451553,45,catalog_categories,"2018-09-07 11:27:10",save,"{""general"":""6, 2, 17, 3, 9, 18, 8""}",success,helis,5,catalog_category_save,,157.52.81.33
+5539,2637451553,45,catalog_categories,"2018-09-07 11:27:11",view,"{""general"":""6""}",success,helis,5,catalog_category_edit,,157.52.81.33
+5540,2637451553,45,catalog_categories,"2018-09-07 11:27:15",view,"{""general"":""7""}",success,helis,5,catalog_category_edit,,157.52.81.33
+5541,2637451553,45,catalog_categories,"2018-09-07 11:28:38",save,"{""general"":""7""}",success,helis,5,catalog_category_save,,157.52.81.33
+5542,2637451553,45,catalog_categories,"2018-09-07 11:28:39",view,"{""general"":""7""}",success,helis,5,catalog_category_edit,,157.52.81.33

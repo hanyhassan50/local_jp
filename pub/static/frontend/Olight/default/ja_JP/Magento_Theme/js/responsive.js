@@ -1,0 +1,1 @@
+/olight/wwwroot/ceikit.store.jp/vendor/magento/theme-frontend-blank/Magento_Theme/web/js/responsive.js

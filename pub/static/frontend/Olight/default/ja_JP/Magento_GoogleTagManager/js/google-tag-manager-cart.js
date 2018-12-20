@@ -1,0 +1,1 @@
+/olight/wwwroot/ceikit.store.jp/vendor/magento/module-google-tag-manager/view/frontend/web/js/google-tag-manager-cart.js
